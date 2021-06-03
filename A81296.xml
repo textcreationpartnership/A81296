@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antichrist unmasked in two treatises. The first, an answer unto two pædobaptists, Dan. Featly, D.D. and Stephen Marshall, B.D. the arguments for childrens baptisme opened, and answered. The second, The man of sinne discovered in doctrine; the root and foundation of Antichrist laid open. / By Hen. Denne.</title>
+            <author>Denne, Henry, 1606 or 7-1660?</author>
+         </titleStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81296</idno><idno type="EEBO-CITATION">99868733</idno>
+  <idno type="VID">121089</idno>
+  <idno type="EEBO-PROQUEST">2264230949</idno>
+  
+            <idno type="STC">Wing D1014</idno>
+            <idno type="STC">Wing D1022</idno>
+            <idno type="STC">Thomason E275_1</idno>
+            <idno type="STC">Thomason E275_2</idno>
+            <idno type="STC">ESTC R209882</idno>
+            <idno type="PROQUEST">99868733</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868733e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121089)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 46:E275[1] or 46:E275[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Antichrist unmasked in two treatises. The first, an answer unto two pædobaptists, Dan. Featly, D.D. and Stephen Marshall, B.D. the arguments for childrens baptisme opened, and answered. The second, The man of sinne discovered in doctrine; the root and foundation of Antichrist laid open. / By Hen. Denne.</title>
+                  <author>Denne, Henry, 1606 or 7-1660?</author>
+               </titleStmt>
+               <extent>[4], 52; [4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the edification of the Church, and information of the world.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>"The man of sin discovered" (Wing D1022) has separate dated title page, register and pagination.</note>
+                  <note>Annotation on Thomason copy: "Aprill 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Featley, Daniel, 1582-1645.</term>
+               <term type="personal_name">Marshall, Stephen, 1594?-1655.</term>
+               <term type="topical_term">Infant baptism --  Early works to 1800.</term>
+               <term type="topical_term">Antichrist --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121089:1"/>
+            <pb facs="tcp:121089:1"/>
+            <p>ANTICHRIST Vnmasked in two Treatises.</p>
+            <p>THE FIRST, An Answer unto two <hi>Paedobaptists, Dan. Featly,</hi> D. D. AND <hi>Stephen Marshall,</hi> B.D. The Arguments for Childrens Baptisme opened, and answered.</p>
+            <p>The Second, The man of Sinne discovered in Doctrine; the root and foundation of Antichrist laid open.</p>
+            <p>By <hi>Hen. Denne.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>MATTH. 15.13.</hi>
+               </bibl>
+               <p>Everie plant, which my heavenly Father hath not planted, shall be rooted up.</p>
+            </q>
+            <p>Printed for the Edification of the Church, and Information of the world. 1645.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:121089:2"/>
+            <pb facs="tcp:121089:2"/>
+            <head>To the Church of God, Grace, Mercie, and Peace, &amp;c.</head>
+            <p>BRethren, beloved in the Lord: when the providence of our God had brought me a prisoner unto <hi>London,</hi> it cam to passe, that almost as soon as I came into Pri<g ref="char:EOLhyphen"/>son, there appeared a book intituled, <hi>The Dipper D<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pt, &amp;c.</hi> which when I had seene, I did presently hold my selfe in du<g ref="char:EOLhyphen"/>ty engaged to defend the truth, against the Adversary. The Booke of what temper it is, you know. But <hi>non licet nobis esse tam disertis,</hi> we may not give railing for railing: we have not so learned Christ: The Book it great, yet we found the whole strength of it to lye in ten Arguments, which are brought for the justification of Childrens Baptisme. I shall let all other things passe, as unworthy of an Answer, and addresse my selfe unto the answer of these onely. I did prof<g ref="char:EOLhyphen"/>fer to dispute the ten Arguments with him face to face; the first whereof we did debate, and account thereof is given: That we went no farther this is the reason: Some worshipfull Gentlemen desiring to hear, I was very willing. But the Dr. would not admit of them, without an Order from the State; but would only debate the matter in private, and not in pre<g ref="char:EOLhyphen"/>sence of (only) <hi>4</hi> auditors. And whilst these things were thus in debate, I received a Message from him by the mouth of a brother, that if I would write, he would defend his Argu<g ref="char:EOLhyphen"/>ments. I have now written as briefely as I could, and yet as largely as the time would permit.</p>
+            <p>I have joyned with him Master <hi>Marshalls</hi> look concer<g ref="char:EOLhyphen"/>ning the Baptisme of Infants, which I had taken into my
+<pb facs="tcp:121089:3"/>hands to examine) whilst I was a prisoner in Cambridge: And now finding these two to joyne together, in this one thing, and to use for the most part the same Arguments, I have joyned them in the Answer. As for their Replies un<g ref="char:EOLhyphen"/>to our Objections, I meddle not with, but leave them to o<g ref="char:EOLhyphen"/>thers. It will be a sufficient taske for me to shew, that their building is upon the sand. I present this Treatise unto you, desiring your favourable correction, if in any thing I have swerved from the truth. If you should bee pleased to com<g ref="char:EOLhyphen"/>mand my pen further, unto this or unto another more weigh<g ref="char:EOLhyphen"/>ty subject; which calls for all our labours, <hi>viz.</hi> That the efficacy, and extent of Christs death may appeare unto the world, which yet in grtat part lyes hidden and obscure. I shall be willing to stoop unto your command herein, and en<g ref="char:EOLhyphen"/>deavour to become your fervant in the Lords worke: provi<g ref="char:EOLhyphen"/>ded that you all assist me with a plentifull streame of your prayers, that wisedome may be given unto me, that so great a work may be carried and managed by the power of the Spi<g ref="char:EOLhyphen"/>rit of God, that gain sayers may have their mouthes for e<g ref="char:EOLhyphen"/>ver stopped. Brethren farewell. <hi>The grace of our Lord Iesus Christ be with you all.</hi> Amen.</p>
+            <closer>
+               <dateline>
+                  <hi>From Prison in the Lord</hi> Peters <hi>house.</hi>
+                  <date>Febr. <hi>22. 1634.</hi>
+                  </date>
+               </dateline>
+               <signed>He that is most un<g ref="char:EOLhyphen"/>worthy the name of a Brother, <hi>HEN. DINNE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:121089:3"/>
+            <head>THE PAEDOBAPTISTS <hi>DAN. Featly,</hi> D.D. AND <hi>Stephen Marshall,</hi> B.D. oppugned: their Arguments opened, and answered.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the Woman cloathed with the Sun,<note place="margin">Rev. <hi>12.</hi>
+               </note> having the Moon under her feet, and a Crowne of twelve Stars upon her head, cryed travailing in birth, ready to be delivered, Behold a wonder in Heaven, <hi>A great red Dragon having seven heads, and ten hornes, and seven Crownes upon his heads:</hi> And his Tayle drew the third part of the Stars of heaven, and cast them to the earth: And the Dra<g ref="char:EOLhyphen"/>gon stood before the woman, which was ready to be delivered, <hi>to devoure her childe, when she had brought it forth.</hi>
+            </p>
+            <p>Never was the Church of Christ in travaile, ready to be delivered, of any truth formed in her wombe,
+<pb n="2" facs="tcp:121089:4"/>but as ready is that <hi>ten horned Dragon,</hi> to devoure the fruit. When the Church travailed in paine, ready to be delivered, and to bring forth the <hi>Doctrine of In<g ref="char:EOLhyphen"/>stification</hi> in <hi>Martine Luthers</hi> daves; wee see Cardinall <hi>Cajetan</hi> in speciall, and the rest of the <hi>Scarlet Conclave,</hi> ready to swallow up both Mother and Issue, had not the Providence of God, carryed the defendors of Truth <hi>upon Eagles wings,</hi> and mightily defended them.</p>
+            <p>Our owne experience teacheth us in these our dayes, wherein the shadowes begin to vanish, and the night to passe away, and the <hi>Sun</hi> of righteousnesse to draw neare unto our <hi>Horizon.</hi> How many adversaries doe now bestirre themselves, with policy and force, to keep us (if it were possible) in perpetuall darknesse, and to hinder the rising of the Sun in our hearts.</p>
+            <p>Among the rest, the Church is now travailing, rea<g ref="char:EOLhyphen"/>dy to be delivered, and to bring forth the <hi>Doctrine of the Baptisme of Water,</hi> raked up heretofore in an imi<g ref="char:EOLhyphen"/>tation of <hi>Poedobaptisme:</hi> The truth of the Ordinance and Institution of the Lord <hi>Iesus,</hi> lying covered with Custome and Practice, and a pretended face of and quity. The Lord hath been pleased at this day, to put into the hearts and tongues of some, to stand up in the defence of his truth, (against the <hi>daring Face</hi> of Error) who doe now labour, ready to bee delivered. But we see how many Champions ready armed, are come forth with <hi>reviling speeches,</hi> and <hi>rayling accusations,</hi> to dash the countenance of this new borne Babe: and if this will not, to execute <hi>Imprisonment</hi> on the one hand, and <hi>wish and threaten Banishment,</hi> or worse on the other hand, unto those that shall dare
+<pb n="3" facs="tcp:121089:4"/>to uphold, or maintaine that which in conscience they are perswaded to be the truth.</p>
+            <p>Amongst the multitude of opposers, I shall single out two, with whom I will adventure to encounter, to try the strength of their weapons, and force of their Armes, though I fight upon very unequall termes.</p>
+            <p>The first is Dr. <hi>Featly,</hi> (my fellow Prisoner) though not for the like Cause: who setteth on us with great might: As the <hi>Red Dragon</hi> hath <hi>ten hornes,</hi> so hath he <hi>ten severall Arguments,</hi> whereby as with so many <hi>hornes,</hi> hee pusheth at the Truth to throw it downe to the ground, and to set up his long practised Bap<g ref="char:EOLhyphen"/>tisme of Infants.</p>
+            <p>The second is Master <hi>Marshall:</hi> The sound of whose name is enough to strike terror to a <hi>Prisoner,</hi> who commeth forth more like a Lambe than the other, and hath <hi>two Hornes,</hi> or Arguments, wherewith he seeketh to strengthen himselfe, and to weaken his Ad<g ref="char:EOLhyphen"/>versaries. These twaine, though the appearance of them be farre different, yet is their voyce the same: though he pretend but two, he useth indeed most of the other. I shall observe their owne meth d, and first set downe the state of the Question, and then weigh their Arguments in the Ballance as they lye in order.</p>
+            <p>The state of the Question set downe by Dr. <hi>Featly</hi> is this, <hi>page</hi> 39.</p>
+            <p>
+               <hi>The children of such parents who professe Christian Religion, and are members of the visible Church, sith they are comprized within Gods Covenant made to the faith<g ref="char:EOLhyphen"/>full Children of</hi> Abraham, <hi>and their seed, may and ought
+<pb n="4" facs="tcp:121089:5"/>to receive the Seale of that Covenant, which was Cir<g ref="char:EOLhyphen"/>cumcision under the Law, but now is Baptisme.</hi>
+            </p>
+            <p>The state of the Question in Master <hi>Marshall, page</hi> 3.</p>
+            <p>
+               <hi>Whether the Infants of such as were, or might have beene stiled Beleevers and Saints in the Apostles dayes, and writings, are to bee admitted to the Sacrament of Baptisme?</hi>
+            </p>
+            <p>Vnto this state of the Question layd thus downe by these two; I shall not speake any thing of the dif<g ref="char:EOLhyphen"/>ference that I doe believe is betweene them, lest I should seeme rather to be contentious, than to search after the truth. Onely I shall desire, that the cun<g ref="char:EOLhyphen"/>ning craftinesse of men, may bee a little discovered. Are not these the men, who have with ut any scru<g ref="char:EOLhyphen"/>ples for many yeares together, Baptized, or caused to be Baptized all Infants, of any parents what oever? And now being to justifie their practise in the face of the world, doe state the Question, whether the Infants of Saints are tob e Bapt<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zed? I must tell you plainely the <hi>state of your Question</hi> is not of the same latitude with your <hi>Practise,</hi> but too narrow for it. VVhat are all the Darents in <hi>Lambeth, Acton; Finching field</hi> become Saints now? not any couple of them unbeleevers? will you now begin to low pillowes under the Arme<g ref="char:EOLhyphen"/>holes of your Parishioners? will you now begin to say of them, as those Conspirators did of the people, Num. 16 3. <hi>All the Congregation is holy, every one of them, and the Lord is among them?</hi>
+            </p>
+            <p>Let me speak unto you the Parishioners, and In<g ref="char:EOLhyphen"/>habitants of these places: Have you not sometimes heard from their Pulpits such words as these: That
+<pb n="5" facs="tcp:121089:5"/>most <hi>of you are in a dimnable estate and condition?</hi> That there are not ten of you have the <hi>knowledge of God, on his Son Isus Christ?</hi> and yet now in the state of this Question, yee are <hi>Saints, Beleevers, visible Mombers of a Church, &amp;c.</hi> Surely what de ling is this? if you did appeare to them so to be. They did ill to give you such Language. But if you were indeed other per<g ref="char:EOLhyphen"/>sons, and did appear unto them otherwise, they did evill to <hi>Baptise</hi> your Infants. But I will say no more of the state of the Question: Now follow the Ar<g ref="char:EOLhyphen"/>guments.</p>
+            <div n="1" type="argument">
+               <head>
+                  <hi>Argument</hi> 1.39.<note place="margin">Dr. Featly.</note>
+               </head>
+               <p>
+                  <hi>That which extends to all Nations, belongeth to children as well as men: for children are agreat part, if not the halfe of all Nations.</hi>
+               </p>
+               <p>
+                  <hi>But Christs command of Baptizing, extendeth to all Nations,</hi> Math. 28.19. <hi>Goe therefore teach all Na<g ref="char:EOLhyphen"/>tions, Baptizing them. And</hi> Mark 15.16. <hi>Preach the Gospell to every creature: he that beleeveth, and is Baptized shall be saved.</hi>
+               </p>
+               <p>Ergo, <hi>Christs Command of Baptizing, belongeth to Children; and they ought to bee Baptized an well as Men.</hi>
+               </p>
+               <p>Page 38. <hi>We know that in every Nation,</hi>
+                  <note place="margin">Mr. Mar. shall.</note>
+                  <hi>the Chil<g ref="char:EOLhyphen"/>dren make a great part of the Nation, and are alwayes included, under every administration to the Nation, whe<g ref="char:EOLhyphen"/>ther promises, or threatnings; priviledges, or burthens; mercies or judgements, unlesie they be excepted.</hi>
+               </p>
+               <p>Thus farre it seemes, that these two speake, both by one and the same Spirit: The Argument in both of them being one and the same. And how mighty soever, and invincible soever this argument
+<gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:121089:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:121089:6"/>
+                  <pb n="6" facs="tcp:121089:7"/>seemeth, it will be found lighter than vanity, being full of deceit, and falsehood; neither of the Pro<g ref="char:EOLhyphen"/>positions being true. For the first, it is plainly de<g ref="char:EOLhyphen"/>nyed: <hi>For something may extend to all Nations, which doth not belong to every particular person in the Nation, nor yet unto every condition of men in the Nation.</hi> For it is written, <hi>Gen.</hi> 22.18. <hi>In thy seed shall all the Na<g ref="char:EOLhyphen"/>tions of the earth be blessed.</hi> Now would not this be strange reasoning: That which extends it selfe to all Nations, must needs extend it selfe to the halfe or greater part of the Nations. But the blessing in the seed of <hi>Abraham</hi> extends it selfe to all Na<g ref="char:EOLhyphen"/>tions.</p>
+               <p>Therefore the blessing extends it selfe to the halfe, or greater part of the Nations.</p>
+               <p>If this bee granted, see what will follow. They that live and dye in unbeliefe, are one halfe of the Nations; nay nine tens of the Nations: Therefore the blessing which extends it selfe to all Nations, must needs (by this reasoning extend it selfe to those that live and dye in unbeliefe; who are by faree the greater part of the Nations. Thus should we argue contrary to the Scripture, which saith, that <hi>Abra<g ref="char:EOLhyphen"/>ham is the Father of them that believe, Romans</hi> 4.11. And they which are of Faith, are blessed with faith<g ref="char:EOLhyphen"/>full <hi>Abraham, Gal</hi> 3.9. Thus is the falsehood of this Proposition discovered.</p>
+               <p>But Master <hi>Marshall,</hi> (who is the subtillest of the twaine) layeth us downe a Proposition something varying in words; but ayming at the same marke to wit, <hi>That Children are always included under ever administration to the Nation, unlesse they be excepted.</hi>
+               </p>
+               <pb n="7" facs="tcp:121089:7"/>
+               <p> Is it possible that Master <hi>Marshalls</hi> understanding, or at least his tongue, should thus range from the truth? and that in the Pulpit? and in a Lecture ap<g ref="char:EOLhyphen"/>poynted by the <hi>Honourable House of Commons,</hi> in a Sermon premeditated, penned, printed, and publi<g ref="char:EOLhyphen"/>shed? Surely, how doth it behoove us to take heed both what, and how, and whom wee heare? How dangerous a Roke is it to build upon man, or the son of man, subject to so many infirmities, passions, and errors? O poore soules, how oft are you hurri<g ref="char:EOLhyphen"/>ed into grosse and palpable errors? having your soules possest with an over-weening conceit of the fidelity, truth, and sincerity of man. When a <hi>Monk</hi> brought a poysoned Cup to King <hi>Iohn,</hi> he dranke his death deeply without any suspicion at all. For as was the superstition of those dayes, who would have deemed poyson to have beene mingled, in a Cup presen<g ref="char:EOLhyphen"/>ted, and tasted by a holy <hi>Monke.</hi> I say therefore againe, Take heed and beware what you heare. But you will say, what is the matter, where is the falsehood?</p>
+               <p>Doth not hee say, that <hi>every administration to the Nation includeth Children, unlesse they bee ex<g ref="char:EOLhyphen"/>ception?</hi>
+               </p>
+               <p>First, is not the preaching of the word of the Go<g ref="char:EOLhyphen"/>spell an administration of God? to a <hi>Nation,</hi> to <hi>all Na<g ref="char:EOLhyphen"/>tions,</hi> to <hi>every Creature?</hi> Mark 16. yet Doctor <hi>Featly</hi> hath granted unto mee in a Conference, that it doth not extend it selfe unto little Children in the Cradle, if three or foure dayes old. And yet are they not in expresse termes excluded.</p>
+               <p>Secondly, was not the <hi>Passeover,</hi> a Nationall admi<g ref="char:EOLhyphen"/>nistration
+<pb n="8" facs="tcp:121089:8"/>to the people o the <hi>Iewes,</hi> and children of nine dayes old no where excepted, from eating the <hi>Passeover:</hi> and yet it pleaseth Master <hi>Marshall</hi> to denie that children did eate the <hi>passeover.</hi> pag 52. I speake not this because I beleeve little children did not eate of the <hi>passeover,</hi> but that I may wound <hi>Goliah</hi> with his owne sword.</p>
+               <p>Thirdly, he that beleeveth not shall be damned, and children are not excepted.</p>
+               <p>Fourthly, is not the breaking of bread a Nationall administration, as he is pleased to call it: But where can hee prove that children are any where excepted from the Lords Supper, rather than from baptisme. For in that he saith, pag. 5. <hi>That infants are capable of the grace of baptisme we are sure, not sure that they are cap<g ref="char:EOLhyphen"/>able of the grace signed and sealed in the Sacraments of the Lords Supper.</hi> How is this; doth baptisme seale one grace, and the Lords Supper another? so hee will make us beleeve but it is not yet proved.</p>
+               <p>
+                  <hi>One is our birth, and the other our food he saith:</hi> but these are but words without weight.</p>
+               <p>Let us see whether the grace sealed in both bee not the same: what doth baptisme hold out untous? Remission of sinns <hi>Act.</hi> 2.38. Bee baptised unto re<g ref="char:EOLhyphen"/>mission of sinns.</p>
+               <p>
+                  <hi>Iohn</hi> preached the baptisine of repentance unto re<g ref="char:EOLhyphen"/>mission of sins, <hi>Mar.</hi> 1.4. now doth not the Supper hold forth the same? <hi>Mat.</hi> 26.28. <hi>This is my bloud of the new Testament, which is shed for many, for remission of sins.</hi> Let any man come forth, and shew me one grace held forth in the Supper, which is not held forth in Baptisme. Will hee say that children ought not to re<g ref="char:EOLhyphen"/>ceive
+<pb n="9" facs="tcp:121089:8"/>the Lords Supper, because it is said, <hi>Let a man examine himselfe, &amp;c.</hi> Wee say againe, that so its said; <hi>He that beleeveth and is baptised: and if thou belee<g ref="char:EOLhyphen"/>vest with all thine heart, thou mayst:</hi> if hee say this is meant of men of yeares; we say the same of the other; so that it appeares, that children are no more excepted, from one ordinance, than another; being indeede equally excepted from both.</p>
+               <p>But if it were true, and granted, yet will not the argument hold, for wee shall finde children excepted. And therfore to the <hi>minor</hi> proposition of the argument, we say, That the <hi>commnd of baptizing, doth not extend it selfe to all persons in or among the Nations, without any restriction, or exception;</hi> for if so, the commission would reach all manner of persons whatsoever, as well unwilling, as willing, unbeleevers as beleevers, which none dare say. For if any Nation or City be<g ref="char:EOLhyphen"/>leeveth not, no other Baptisme belongeth to them, than to have dust of the feet shaken off, for a testimony against them.</p>
+               <p>Againe, the Text readeth <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Matth.</hi> 28. Baptizing them; that is not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the nations, but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Di<g ref="char:EOLhyphen"/>sciples which are included in the verbe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> teach ye, or make disciples: and so wee justifie that answer, which saith, that <hi>the command of Christ,</hi> entends its selfe onely to those who being cape<g ref="char:EOLhyphen"/>able, receive instruction, and are tought and made di<g ref="char:EOLhyphen"/>sciples.</p>
+               <p>The Doctor seemes to take advantage from the word <hi>made Disciples,</hi> and frameth us this Argu<g ref="char:EOLhyphen"/>ment.</p>
+               <pb n="10" facs="tcp:121089:9"/>
+               <p>
+                  <hi>They that are made Disciples may be baptized.</hi>
+               </p>
+               <p>But, <hi>Though Children in their nonage, cannot bee taught, yet thay may be made Christs Disciples, by be<g ref="char:EOLhyphen"/>ing admitted into his Schoole their parents giving their names to Christ both for themselves and their families.</hi>
+               </p>
+               <p>This is his saying, and if you will believe him you may, if not, I know not, who can blame you: for here is no proofe of it. VVhen as I had some Confe<g ref="char:EOLhyphen"/>rence with the <hi>Doctor.</hi> I did desire proofe from him, that children could in their nonage be made Disciples, which he assayed thus to prove; and I did write it from his owne mouth, and read it in his presence.</p>
+               <p>I did first alleadge that Children, could not bee made Disciples. Because it is written, <hi>Whosoever bea<g ref="char:EOLhyphen"/>reth not his Crosse, and followeth mee cannot be my Disciple, Luke</hi> 14.27.</p>
+               <p>His answer was, that this is meant of men and wo<g ref="char:EOLhyphen"/>men, and not of Children: which I easily grant, and I doe bring it for the same purpose to prove, that children cannot be made Disciples: which he assayed to prove thus.</p>
+               <p>
+                  <hi>All those whose names are given to Christ, by their faithfull parents, and brought unto the Church, and recei<g ref="char:EOLhyphen"/>ved into the Church, and securing given to be bred up in Christs schoole, are so farre made Disciples, as is re<g ref="char:EOLhyphen"/>quired of any, in their Infancy to be make Disci<g ref="char:EOLhyphen"/>ples.</hi>
+               </p>
+               <p>But, <hi>Children have their Names given to Christ by their faithfull Parents, and are brought unto the Church &amp;c.</hi>
+               </p>
+               <p>Therefore, <hi>They are so fare male Disciples, as is required of any in their Infancy to be made Disciples</hi>
+                  <pb n="11" facs="tcp:121089:9"/>without any exception, against many things in this Argument, worthy of exception. I doe answer by granting the whole, namely that Children are so far <hi>made disciples,</hi> as is required of any in their Infancy to be made Disciples, that is nothing at all; and so not to be Baptized at all. This is the period, and end of this weighty Argument.</p>
+               <p>But Mr. <hi>Marshall</hi> sets upon us with greater waight, to prove that Children may be made and called Disci<g ref="char:EOLhyphen"/>ples, from <hi>Acts</hi> 15.10. <hi>Now therefore why tempt yee God, to put a yoak upon the necks of the Disciples.</hi>
+               </p>
+               <p>I reason thus, saith he, <hi>page 39.</hi>
+               </p>
+               <p>
+                  <hi>All they upon whose necks those false Teachers would have put the yoak of Circumcision, are called Disciples and to be called Disciples.</hi>
+               </p>
+               <p>But <hi>they would have put the Circumcision, upon Infants as well as growne men.</hi>
+               </p>
+               <p>Therefore <hi>Infants as well as growne men, are called Disciples, and to be called so.</hi>
+               </p>
+               <p>The <hi>major</hi> (saith he) is undenyable: the <hi>minor</hi> I prove thus, as you shall see at large, <hi>Page</hi> 39.</p>
+               <p>Good Sir, spare your labour of proving the <hi>minor,</hi> for that we doe grant as undenyable. But wee boldly deny the <hi>major,</hi> and cannot but be a little amazed, that you should have your sight so dimme, to thinke it undenyable.</p>
+               <p>You say, <hi>that all they upon whose neck the you was to be put, were called Disciples.</hi> This is but your saying, and we may not beleeve it: for the Text saith not so, which is alleadged. All that can be proved out of the Text is this, that they would have put a yoak <hi>upon the necks of all the Disciples,</hi> not that all were <hi>Disciples</hi> upon
+<pb n="12" facs="tcp:121089:10"/>whom thay would have put the yoak: or that they would have put the yoke onely upon the <hi>Disciples:</hi> I think this may be called perverting of Proportions, rather than convering; see but your error: All men living were once in <hi>Noah's</hi> Ark: All that were in <hi>Noah's</hi> Ark were men living.</p>
+               <p>The Blue Regiment was shaine in such a fight: All that were slaine in such a fight were of the Blew re<g ref="char:EOLhyphen"/>giment. This is your arguing.</p>
+               <p>False Teachers put a yoak upon the neck of the <hi>Disciples:</hi> All were <hi>Disciples,</hi> that false Teachers put a yoak upon: which if it were so, not onely Children, (who were to bee Circumcised after the manner of <hi>Moses</hi>) must be called <hi>Disciples,</hi> but also Servants, of what age soever, whether beleevers, or un beleevers, must be called <hi>Disciples: For all Servants bought with money must needs be circumcised,</hi> Gen. 17.13.</p>
+               <p>
+                  <hi>Let a stranger circumcise and the males that belong unto him.</hi> Exod. 12.14.</p>
+               <p>Servants are then to be called <hi>Disciples</hi> as well as <hi>Children.</hi> But more of this anon. If I had not found this under Master <hi>Marshalls</hi> name, I should never have given credit to any report of it. Sure it is that if you deale thus with us often, we shall hardly believe you when you tell us truth.</p>
+               <p>There is one thing more wee must take notice of in the Doctors reply, that in Christ, precept, <hi>Teaching</hi> doth not goe before, but follow <hi>Baptizing, Mat.</hi> 28.20. <hi>Teaching them to observe all things, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> This indeed doth prove <hi>Teaching</hi> followes <hi>Baptizing;</hi> but it doth not prove that it not goe before. I wonder we heare not of that <hi>Mark</hi> 1.4.
+<pb n="13" facs="tcp:121089:10"/>
+                  <hi>Iohn did Baptize and Preach;</hi> which is alleadged by some, but the answer is the same, the this proves no more but that hee preached after hee Baptized: not that he preached not before. And no man questions, but that as Preaching goes before Baptisme, so also it ought to follow: Which Order is well laid down, <hi>Hebr.</hi> 6.1. what is to be preached before the admi<g ref="char:EOLhyphen"/>nistration of Baptisme, viz. <hi>Repentance from dead workes, and faith towards God, the Doctrine of Baptismes.</hi> And what is to be preached after, viz <hi>laying on of hands, resurrection from the dead, eternall judgement;</hi> and so on to perfection.</p>
+               <p>Other things there are worthy of exception in the Doctors Reply: but wee leave them to their proper place in the following Arguments. Thus have wee done with the first Argument, which comes forth like a forlorne hope: and what the event of it hath beene, I leave to thy censure. I will now goe for<g ref="char:EOLhyphen"/>ward, by the assistance of God, to grapple with the second Argument, one horne being broken, so that it is dreadfull no longer.</p>
+            </div>
+            <div n="2" type="argument">
+               <head>
+                  <hi>Argument.</hi> 2.</head>
+               <p>
+                  <hi>None ought to exclude the children of the faithfull, out of the Kingdome of heaven.</hi>
+               </p>
+               <p>But <hi>by denying them Baptisme, (as much as in us lyeth) we exclude them out of the Kingdome of Heaven: for as Christ affirmed to</hi> Nicodemus, <hi>and confirmed it with a double oath, or most vehement asseveration,</hi> Amen, Amen, or verily verisy, I say nnto thee, except a man bee bo ne of water, and of the Spirit, hee cannot enter into the kingdom of heaven. Ergo, <hi>Wee cannot deny them Baptisme.</hi>
+               </p>
+               <pb n="14" facs="tcp:121089:11"/>
+               <p> Master <hi>Marshall</hi> is so wary, as not to make use of this Argument at all; unsesse hee seem to dip his fin<g ref="char:EOLhyphen"/>ger into it in his first Vse of Application, <hi>page</hi> 52. where he hath these word. First it serves for just reproof of the Anabaptists, and all such as by their rash and bloudy sentence, condemne Infants as out of the state of grace.</p>
+               <p>And unlesse it belawfull for us to alleadge the testi<g ref="char:EOLhyphen"/>mony of <hi>Irenaeus,</hi> cited by Mr. <hi>Marshall, page.</hi> 4.</p>
+               <p>The words are cited in <hi>Latin,</hi> (I beleeve hee was ashamed to English them) they bear this sence, <hi>Christ came to save all through himselfe, (I say all) that are berne againe through him into God, infants, littleones, and Chil<g ref="char:EOLhyphen"/>dren.</hi> And by the word <hi>borne againe,</hi> according to the <hi>Glossers</hi> Interpretation is meant <hi>Baptized.</hi> Where the <hi>Glosser,</hi> cited by Master <hi>Marshall,</hi> joynes with Doctor <hi>Featly,</hi> in the meaning of the word <hi>borne a<g ref="char:EOLhyphen"/>gaine.</hi> But I may not strictly lay this unto Master <hi>Marshalls</hi> charge, because he himselfe hath disclay<g ref="char:EOLhyphen"/>med it.</p>
+               <p>In this Argument I have not any adversary besides the Doctor, though many have written of the same subject of Baptisme of late.</p>
+               <p>For answer unto this argument, I would we might understand what the Doctor meaneth by the words <hi>Kingdome of Heaven.</hi> VVhich word is sometimes ta<g ref="char:EOLhyphen"/>ken for the visible Church on earth, as for the prea<g ref="char:EOLhyphen"/>ching of the Gospell, as <hi>Matth.</hi> 13. If by <hi>Kingdome of heaven</hi> in the Argument this sence bee held forth; then we deny the <hi>major,</hi> and say that Children are to be excluded from the Kingdome of Heaven, as not being capable of membership in a visible Church, be<g ref="char:EOLhyphen"/>ing
+<pb n="15" facs="tcp:121089:11"/>uncapable of hearing, with understanding, the sound of the Gospell.</p>
+               <p>Secondly, sometimes the word <hi>Kingdome</hi> is taken for the manifestation of God unto the soules of man, as Rom. 14.17. <hi>The Kingdome of God is righteousnesse, and peace, and joy in the holy Ghost.</hi> And <hi>the Kingdome of God is within you,</hi> Luke 17.21.</p>
+               <p>In this second acception, children are also exclu<g ref="char:EOLhyphen"/>ded the <hi>Kingdome of heaven,</hi> that is, uncapable of dis<g ref="char:EOLhyphen"/>cerning either good or evill, and of receiving the manifestations and Apprehensions of GOD in the soule.</p>
+               <p>Thirdly, by <hi>Kingdome of heaven,</hi> may bee under<g ref="char:EOLhyphen"/>stood grace, merey, and favour of God. And this is the sence in which we imagine the Doctor taketh the word <hi>Kingdome.</hi> And being taken in this sence, wee deny the minor proposition, and say that by denying them Baptisme, wee doe not at all exclude infants, from the Kingdome of Heaven: but wee say that Children are as free from sinne, as fully in the favour and grace of God before Baptisme, as after. This seemes a strange paradox, to the Doctor who hath not yet learned the art of forgetfulnesse, to byry his old lesson. <hi>For as much</hi> as this childe is regenerated and borne againe of Water, <hi>&amp;c.</hi>
+               </p>
+               <p>For to strengthen the assertion: it is alledged which is written <hi>John</hi> 3.5. <hi>Except a man bee borne againe of Water and of the Spirit, hee cannot enter into the King<g ref="char:EOLhyphen"/>dome of heaven.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> If wee understand the word <hi>Kingdome,</hi> in the third sence, for the grace, mercy, and favour of God, revealed in <hi>Iesus Christ.</hi> What will bee more
+<pb n="16" facs="tcp:121089:12"/>strange than the sence that is brought unto us, <hi>viz.</hi> That unlesse man bee baptised, there is no entrance into grace, favour, mercy, no remission of sinnes, <hi>&amp;c.</hi> Which how contrary unto sound Doctrine it is, will appeare: in that the Scripture which seateth our unto us, the qualifications of those that are to bee baptised, doth require faith. <hi>Acts</hi> 8.37. <hi>If thou beleevest with all thy heart thou mayest.</hi> Where it is plaine that faith (whose object is remission of sinnes in <hi>Iesus Christ</hi>) is required in persons to be baptised. Peradventure the Dr. will say this is meant of men of years of discretion, and no of children: If hee shall so say; I demand what reason hee had to finde fault with his adversary: that unto that place in the 3. of <hi>Iohn</hi> 5. did answere in these words: The words of our Saviour concerne men in riper yeares, and not Children. This the Doctor cannot beare in another, yet he will now beare with it in himselfe, as hee did before unto that place before alleadged. <hi>Luke</hi> 14.27.</p>
+               <p>Secondly, suppose this be meant of men of yeares of discretion, it the Doctors ownegrant, that Christ prescribes the remedy to them, as well as men, <hi>page</hi> 44. <hi>line</hi> 1. But he doth not prescribe this as a remedy to men (who are required to believe remission of sins before Baptisme) therefore not unto children: unlesse it be more effectuall unto children then unto men. To speake my thoughts of this Argument, I shall discover the ground-worke upon which it is built. Namely, up<g ref="char:EOLhyphen"/>on these Propositions.</p>
+               <p>First, <hi>That Baptisme</hi> was ordayned to take away the silth of sin.</p>
+               <p>Secondly, <hi>That Children</hi> before their Baptisme,
+<pb n="17" facs="tcp:121089:12"/>are defiled with sinne, as well, (he should rather have said, as ill) as men.</p>
+               <p>Thirdly, <hi>That Children</hi> after Baptisme are washed from sin.</p>
+               <p>This is the man that did pretend to write <hi>Romes Ruine:</hi> Yet see how hee dawbeth with <hi>Romes Truall,</hi> and with het untempered mortar. See I pray you, how he plougheth with <hi>Romes Heifer.</hi> I'will challenge the Iesuites, to produce me if they can, more foundation rasing errors, than these.</p>
+               <p>To the first, that Baptisme doth not take away the filth of sinne: That which takes away the filth of sin, <hi>justifies.</hi>
+               </p>
+               <p>But <hi>Baptisme</hi> doth not <hi>justifie.</hi> Therefore it doth not take away the silth of sin.</p>
+               <p>Againe, if the <hi>bloud of Christ</hi> have taken away all sinne; then there remaineth none for <hi>Baptisme</hi> to take away. If any remaine for <hi>Baptisme</hi> to take away; then hath not the bloud of <hi>Christ</hi> taken away all sinne.</p>
+               <p>Now that the bloud of Christ hath taken away all sinne that ever shall be taken away, we have the Scrip<g ref="char:EOLhyphen"/>tures to witnesse, <hi>Iohn</hi> 1. <hi>Behold the Lambe of God that taketh away the sinne of the world.</hi> 1 <hi>Pet.</hi> 2.24. <hi>who him. selfe tooke away our sins, in his owne body upon the Tree. By whose stripes yee are healed.</hi>
+               </p>
+               <p>Now what is this but to deny <hi>Christ</hi> comming in the flesh? to deny his propitition, and attonement.</p>
+               <p>Now unto the second Proposition: That chil<g ref="char:EOLhyphen"/>dren before their Baptisme are defiled with the guilt of sinne.</p>
+               <p>Wee grant that they are so indeed by nature.
+<pb n="18" facs="tcp:121089:13"/>Which is the thing that the Doctor labours to prove, which we doe not deny. Hee should have proved, that they cannot be by any meanes justified by the grace of God from that Transgression, whereof they stand guilty by nature before <hi>Baptisme.</hi> Yet it is worth the observation, how like himselfe he is in his proofe, for he reasoneth thus, <hi>page</hi> 44. <hi>All that are sentenced to death are guilty of sinne.</hi> But children are sentenced to death, for they dye: therefore they are guilty of sinne.</p>
+               <p>Is it possible a <hi>Doctor</hi> should reason no better? What could he have done more against himselfe? He saith, <hi>All that sentenced to death are guilty of sinne.</hi> Surely, then his sprinkled Infants are not yet cleansed, but the guilt of sine remaineth on them: for many of them dye immediately after their sprinkling, if not three quarters dead before.</p>
+               <p>This is against his third Proposition.</p>
+               <p>Againe, if all that are sentenced to death are guil<g ref="char:EOLhyphen"/>ty of sinne, them is not the Doctor yet purged from his <hi>old</hi> sinnes by his owne confession, the <hi>Messengers of death,</hi> having already summoned him to appeare Nay then did not the Apostle speak truth when hee said, <hi>Rev.</hi> 1.5. <hi>Who hath loved us, and washed us from our sinnes in his bloud.</hi> VVhat shall we say? that the wise are taken in their owne craltinesse? That the Lord hath put out the right eye of the Prophets and Priests, and hath sent them strong delusions, that they should believe a lye.</p>
+               <p>But before I leave this Argument, I deem it neces<g ref="char:EOLhyphen"/>sary, to give you the meaning of the Text which is wrested by the Doctor. <hi>Except a man be borne againe of
+<pb n="19" facs="tcp:121089:13"/>water, and of the Spirit, he cannot enter into the Kingdome of heaven.</hi>
+               </p>
+               <p>I did make bold to tell the Doctor to his face, that the <hi>Protestants</hi> doe not understand this Text of <hi>Bap<g ref="char:EOLhyphen"/>tisine.</hi> VVhich thing he confessed, and said that the Protestants, our of their zeale against the Papists, did goe too farre on the right hand in the meaning of the Text. Now how farre hee hath wandred on the left hand, let all be judge.</p>
+               <p>Cardinall <hi>Bellarmin</hi> confesseth, that the Prote<g ref="char:EOLhyphen"/>stants doe not make use of this Text, as not acknow<g ref="char:EOLhyphen"/>ledging a necessity of Baptisine unto salvation, which this Text seemeth to hold forth.</p>
+               <p>All the difficulty of the Text will be resolved, when we shall rightly understand what it is to <hi>be borne againe of water.</hi> VVhich all men know to be a meta<g ref="char:EOLhyphen"/>phoricall speech, and therefore we must consider the minde of the speaker. To be borne againe of water is to be partaker of the Invisible, and spirituall wa<g ref="char:EOLhyphen"/>shing from sinne by Iesus Christ. <hi>If I wash thee not, thou shalt have no part with me, Iohn</hi> 13.8. <hi>Vnto him that loved us, and washed us from our sinnes in his bloud, Reve<g ref="char:EOLhyphen"/>lations</hi> 1.5.</p>
+               <p>
+                  <hi>These are they that come out of great Tribulations, and have washed their Robes in the bloud of the Lambe, Revel.</hi> 7.14.</p>
+               <p>But it will be said, that this is a <hi>bloud-washing,</hi> not a <hi>water-washing.</hi>
+               </p>
+               <p>I answer, That there are two things considerable in Scripture.</p>
+               <p>First, the <hi>washing,</hi> or taking away of sin.</p>
+               <p>Secondly, the <hi>manifestation</hi> of this washing unto
+<pb n="20" facs="tcp:121089:14"/>the conscience. Both these, but especially the latter, are set out in Scripture, under the metaphor of water, <hi>Ezeck.</hi> 36.25. <hi>I will sprinkle cleane water upon you, and cleanse you from,</hi> &amp;c. <hi>Iohn</hi> 4.10. <hi>Hee would have given thee living water, verse</hi> 14. <hi>Whosoever shall drinke of the water that I shall give him, shall never thirst: but the water that I shall give him, shall bee in him, a well of water, springing up into everlasting life.</hi> Now, what is this water save the word of promises, conveied unto the soule by the spirit. <hi>Iohn</hi> 6.38. <hi>Hee that beleevethon me, out of his belly shall slow rivers of living water: This spake he of the spirit:</hi> promise is water, and spirit is water. To bee borne of water is to bee borne of the Word. <hi>Being borne againe, not of corruptible seede, but of incor<g ref="char:EOLhyphen"/>ruptible, by the word of God, which liveth and abideth for ever,</hi> 1. <hi>Pet.</hi> 1.23. <hi>To be borne of the spirit;</hi> is to have the spirit ministied to the soule, by the hearing of faith. <hi>Gal.</hi> 3. 2 <hi>Cor.</hi> 3. whereby the soule is sealed, to the day of Redemption. Thus much in briefe to de<g ref="char:EOLhyphen"/>clare the meaning of this place, to cleare it from the cloedy glosse, which the Papists in the first place, and the Doctor in the next, have put upon it. The sence then of the text is no more but this: He that beseeveth not shall bee damned. Which the Doctor must grant onely to bee spoken of men of riper yeares, unlesse hee will condemne all infints to destruction. Thus much for the second argument, where in the Doctor is ingaged alone. The third followe;.</p>
+            </div>
+            <div n="3" type="argument">
+               <head>
+                  <hi>Argument</hi> 3. <hi>page</hi> 44.</head>
+               <p>
+                  <hi>They whom the Apostles Baptizetd, are not to be excluded from Baptisme:</hi>
+                  <note place="margin">Dr. Featly.</note>
+                  <hi>for what the Apostles did in their ministery, all function, they undoubtedly did either by Christs com<g ref="char:EOLhyphen"/>mand,
+<pb n="21" facs="tcp:121089:14"/>or by the direction of the holy Spirit, wherewith they were infallibly assisted.</hi>
+               </p>
+               <p>But <hi>the Apostles Baptized Childern: for they Bap<g ref="char:EOLhyphen"/>tized whole families, whereof Children were a knowne part.</hi>
+               </p>
+               <p>Ergo, <hi>Children ought not to bee excluded from Bap<g ref="char:EOLhyphen"/>tisme.</hi>
+               </p>
+               <p>
+                  <hi>The Gospell takes place, just as the Law,</hi>
+                  <note place="margin">Mr. Mar<g ref="char:EOLhyphen"/>shall. Page <hi>40.</hi>
+                  </note>
+                  <hi>by bringing in whole families together: when</hi> Abraham <hi>was taken in, his whole Family was taken in with him. When any of the Gentiles turned Proselytes, ordinarily their families came in with them: so in this new Administration, usually if the Master of the house turned Christian, his whole fa<g ref="char:EOLhyphen"/>mily came in and are Baptized with him.</hi>
+               </p>
+               <p>
+                  <hi>Answer.</hi> I cannot but commend the modesty of <hi>Bellarmin,</hi> who bringing in this Argument, confesseth that it concludeth onely probably, and nothing cer<g ref="char:EOLhyphen"/>taine, because no man is able to proove, that there were any Children in these families.</p>
+               <p>Yet these men must have it ganted them, otherwise they imagine we are not to be borne with all: for saith the Doctor, <hi>It is no way credible, that in all these Familis blessed by God, and converted to the Christian faith, all the women should be barren, and not one fruitfull.</hi> For An<g ref="char:EOLhyphen"/>swer I say. First, the Doctor cannot prove, that there were any marryed women at all in these Families. Se<g ref="char:EOLhyphen"/>condly, suppose them to be all marryed, must they needs be barten, unlesse they had little children in the Cradle. Is it not possible that a man and woman may have seven Children, or more, and yet the least of them be able to perceive the weaknes of the Doctors reasoning, and able to confute it?</p>
+               <pb n="22" facs="tcp:121089:15"/>
+               <p> Concerning the six housholds baptized, we find but two of them that had their whole housholds Bapti<g ref="char:EOLhyphen"/>zed: that is, <hi>Cornelius</hi> Acts 11.14. and <hi>the Gaoler, Acts</hi> 16 33. Now concerning the first of these: it is said <hi>Acts</hi> 10.2. <hi>That he feared God with all his house:</hi> And we read of no more Baptized, save they that <hi>re<g ref="char:EOLhyphen"/>ceived the boly Ghost,</hi> verse 47. <hi>Can any man forbid wa<g ref="char:EOLhyphen"/>ter, that these should be baptized, which have received the Holy Ghost as well as we.</hi> And wee read of no more re<g ref="char:EOLhyphen"/>ceiving the Holy Ghost, save they which <hi>heard the Word,</hi> verse 44. <hi>The holy Ghost fell on all them which heard the Word.</hi> Now all that were Baptized, seared God, heard the VVord, received the Holy Ghost as well as the Apostles themselves. For the second whole houshold baptized, which was the <hi>Gaolers, Acts</hi> 16. we read, that they <hi>spake the word to all that were in the house, verse</hi> 32. and <hi>so his whole house believing in God rejoyced,</hi> verse 34. So that all that are here said to be Baptized, are said to heare the VVord, believe and rejoyce. Now how any such should be a child in a Cradle, not able to discerne good or evill, we are (as yet) not able to understand.</p>
+               <p>As for the other foure houshoolds, it is not sayd, that the whole housholds were Baptized; and there<g ref="char:EOLhyphen"/>fore no need that the Sucklings should be excepted, if there had beene any. First, because there was not as yet such a Doctor hatcht, who would imagine Infants to be baptized. Sacondly, the name of the whole be<g ref="char:EOLhyphen"/>ing commonly taken for the greater part, sometimes for the better part: as also sometimes for the worse part. Thirdly, the Doctor cannot imagine why the <hi>A<g ref="char:EOLhyphen"/>postle</hi> should not except Children if they were not Bap<g ref="char:EOLhyphen"/>tized.
+<pb n="23" facs="tcp:121089:15"/>I will intreat him to give <hi>mee</hi> leave to imagine the reason: and it shall be none other than the answer of the Lord to the Disciples, <hi>Matth</hi> 13.13 <hi>Therefore speak I to them in Parables: Because they seeing see not, and hearing, heare not, &amp;c.</hi> They that are <hi>wise</hi> shall under<g ref="char:EOLhyphen"/>stand, but the <hi>heat of this people is waxed grosse, and their cares are dull of hearing.</hi> The Doctor might as well have asked the question, if it were not the mind of Christ, that Children should be Baptized, why did he not in expresse termes say, Children shall not bee Baptized, that so in a word the Controversie might habe beene ended. I leave the Answer of this que<g ref="char:EOLhyphen"/>stion unto the prudent that are truely taught of God. As for others, they are not able to beare it.</p>
+               <p>I must now turne me unto Master <hi>Marshall,</hi> who tells us a very faire story, if it were true, that the Go<g ref="char:EOLhyphen"/>spell took place just as the Law, so that usually, if the Master of the family turned Christian, his whole fa<g ref="char:EOLhyphen"/>mily came in, &amp;c.</p>
+               <p>Sure wee read of sixe families, and no more, and that sometimes it is so, none can deny: we blesse God we are able to shew the truth of it in our dayes, though rarely. But that this was, or is an usuall thing, is not trre. Was not <hi>Philemon</hi> a Christian, and yet his ser<g ref="char:EOLhyphen"/>vant <hi>Onesimus</hi> an unbeleever? Nay was it not an or<g ref="char:EOLhyphen"/>dinary case among the <hi>Corinths,</hi> and else-where, that the husband was a beleever, and the wife an unbelee<g ref="char:EOLhyphen"/>ver? 1 <hi>Cor.</hi> 7.14. <hi>The unbeleeving wife is sanctified by the husband:</hi> And <hi>how knowest thou O man whether thou shalt save thy wife? verse</hi> 16. Nay, was it not an usuall case, that the Father was a beleever, but the Children unbeleevers? the Childern beleevers, but the Father
+<pb n="24" facs="tcp:121089:16"/>an unbeleever? otherwise what meane these words, <hi>Matth.</hi> 10.21. <hi>The brother shall deliver up the brother, and the father the child: and children shall rise up against their parents, &amp;c. verse</hi> 35. <hi>I am come to set a man at va<g ref="char:EOLhyphen"/>riance against his Father, and the daughter against her mo<g ref="char:EOLhyphen"/>ther: and the daughter in law against the mother in law, and a mans foes shall bee they of his owne houshold, Mark</hi> 13.12. <hi>Children shall rise up against their parents, and cause them to be put to death.</hi> All this notwithstanding he is bold to affirme, that it was an usuall thing as of old, when the Master was Circumcised, all the fami<g ref="char:EOLhyphen"/>ly was circumcised. For when the Master or father of the Family was Baptized, all the whole family fol<g ref="char:EOLhyphen"/>lowed. I wonder men of learning, and gravity are not ashamed of such arguing as this. This Argument seemes so light unto me, and lyeth open unto many ab<g ref="char:EOLhyphen"/>surdities, more then I either have, or will speak of: that surely in my judgement, it is not worthy of a fur<g ref="char:EOLhyphen"/>ther answer.</p>
+               <p>But men that have no better weapons, must be con<g ref="char:EOLhyphen"/>tented to bring forth such as they have. I will now hasten unto the fourth Argument: In these words, Page 45.</p>
+            </div>
+            <div n="4" type="argument">
+               <p>
+                  <hi>Such as were Circumcised under the Law may and ought to be Baptized under the Gospell:</hi>
+                  <note place="margin">Dr. Featly.</note>
+                  <hi>for Baptisme answereth to Circumcision, and is called by that name,</hi> Col. 2.11, 12. <hi>The same grace is sealed unto us by the one, as by the other, to wit; mortification of the flesh, remission of sinnes, and admission into the visible Church. And the children of Chri<g ref="char:EOLhyphen"/>stians are as capable of Baptisme, as the children of the Iewes were of Circumcision.</hi> But <hi>children were Circumcised under the Law,</hi> Gen. 17.12.13.</p>
+               <pb n="25" facs="tcp:121089:16"/>
+               <p> Ergo. <hi>Children may and ought to bee baptized under the Gospel.</hi>
+               </p>
+               <p>
+                  <hi>The same command which injoyned Abraham, to seale his children with the seale of the Covenant, injoynes us as strongly to seale ours with the seale of the covenant, And that command of God which expresly bound Abraham, to seale his with the signe of circumcision, which was the sacrament then in force</hi> pro tempore, <hi>doth virtually bind us, to seale ours with the seale</hi> of <hi>Baptisme; which is the Sacrament now in force, and succeeds in the roome of the other by his owne appoyntment.</hi>
+               </p>
+               <p>Page 27. <hi>Be pleased to observe how plaine the Apostle makes it, that Baptisme succeeds in the roome, place and use,</hi> of <hi>circumcision,</hi> Col. 2.8, 9, 10, 11, 12.</p>
+               <p>Here is very much spoken, and little proved, many intricate questions being herein involved, which would aske much labour to discusse.</p>
+               <p>First, Whether Baptisme come in the roome of circumcision? the proofe alledged out of <hi>Col.</hi> 2.8. doth prove Baptisme, to succeed in the roome of cir<g ref="char:EOLhyphen"/>cumcision, no more than, 1 <hi>Pet.</hi> 3.20.21. doth prove Biptisme to come in the place of the Arke of <hi>Noah</hi> which indeed Master <hi>Marshall</hi> will say: for hee saith Baptisme is the Arke to carry to heaven. page 58. 11.</p>
+               <p>Secondly, Whether the same grace were sealed in Circumcision, which is sealed in Baptisme, neither more nor lesse, as first, whether somthing were not sealed in Circumcision, which is no sealed in bapti<g ref="char:EOLhyphen"/>sme; <hi>viz.</hi> I will give unto thee, and to thy seede after thee, the Land wherein thou art a stranger; All the land of Canaan for an everlasting possession. <hi>Gen.</hi> 17.8. secondly, another querie is; whether something bee
+<pb n="26" facs="tcp:121089:17"/>not sealed in Baptisme, which was not sealed to the Iewes in Circumcision? <hi>viz. Sinne already taken away, and transgression finished</hi> 1600. <hi>yeares agon, by the Mes<g ref="char:EOLhyphen"/>siah.</hi>
+               </p>
+               <p>Thirdly, a third question, whether the Scripture, will give us warrant, to call BAPTIZME a seale or not.</p>
+               <p>Thus you see that which these men thinke so plaine, doth indeed fill the world, with doubtfull controver<g ref="char:EOLhyphen"/>sies; But I shall shunne all these questions, and addresse my selfe unto the answer of the argument: In which I deny the major, and say that they which were <hi>uncir<g ref="char:EOLhyphen"/>cumcised</hi> under the Law, may not bee <hi>Baptized</hi> under the Gospel; neither doth the command of God, which bound the Iew to <hi>circumcision,</hi> bind us to <hi>baptisme.</hi> This remaineth to be proved: for first of all.</p>
+               <p>The command of God, commanded all Males to bee <hi>circumcised,</hi> whether the Parents beleeved or not. And this is more than any of both these, undertakers dare affirme, that all Children should be baptised.</p>
+               <p>Secondly, the command of God required the ma<g ref="char:EOLhyphen"/>ny thousands of Israel to bee circumcised, at the hill of foreskins, when they were growne men, and bare Armes, yet we read of no profession of faith, <hi>Ios.</hi> 5.3. It was enough to entitle any one unto circumcision, that he was of the loynes of <hi>Abraham.</hi> But this was not enough to entitle men to baptisme. Which the <hi>Baptist</hi> seemes to mee, to confirme, when hee repro<g ref="char:EOLhyphen"/>ves the Pharisees, <hi>Mat.</hi> 3.9. <hi>And thinke to say within your selves, wee have Abraham to our Father:</hi> as if hee should have said; you thinke to clayme, right, and priviledge unto Circumcision, for you, and yours; be<g ref="char:EOLhyphen"/>cause
+<pb n="27" facs="tcp:121089:17"/>
+                  <hi>Abraham</hi> is your Father: and indeed so you may. And now because you have right to circumci<g ref="char:EOLhyphen"/>sion, you imagine also, that upon the same ground, you have right to baptisme; I tell you nay: for this bap<g ref="char:EOLhyphen"/>tisme, is the baptisme of repentance: <hi>Bring forth ther<g ref="char:EOLhyphen"/>fore fruits, meete for repentance.</hi> You have hither o lived under a Nationall Church, under carnall ordi<g ref="char:EOLhyphen"/>nances, wherein the chaffe, and the Wheate, have been mingled together, without separation, and have see<g ref="char:EOLhyphen"/>med to injoy, the same priviledges, and prerogatives under the carnall commandement. But now commeth one, <hi>whose fanne is in his hand, and hee will throughly purge His Floure, and gather the Wheate into his Garner, but the</hi> Chaffe <hi>will Hee burne with unquenchable fire.</hi>
+               </p>
+               <p>Hitherto wee have injoyed common priviledges. You have all been Circumcised, all eaten the Passeo<g ref="char:EOLhyphen"/>ver, all brought your offerings to the Priests, without any distinction of chaffe from Wheat. But it shall not be so now: So that we see there is more qualifications required unto Baptisme, than were required unto Circumcision.</p>
+               <p>Thirdly, the command of God, required not only Children, to be circumcised, but also servants, as hath been spoken before, <hi>Gen.</hi> 17. And when a <hi>Proselite</hi> came in, he was bound not onely to circumcise his <hi>Children,</hi> but all his <hi>Servants, Exod.</hi> 12.48. So that if the com<g ref="char:EOLhyphen"/>mand be in force for Children; it must needs be also in force for servants. So that if a Master bee con<g ref="char:EOLhyphen"/>verted to the faith, and have an hundred Servants, they must all bee Baptized whether they will or no. Now who will not blush at this? let them see how they can escape this.</p>
+               <pb n="28" facs="tcp:121089:18"/>
+               <p> We must not let passe the dealing of these men, who will have the command to stretch, either wider, or nar<g ref="char:EOLhyphen"/>rower, (like the Sea mans hose) according to their pleasure. Sometimes they will not be tyed to the com<g ref="char:EOLhyphen"/>mand, as in the circumstance of time; and yet they are not able to shew any reason why the circumstance should not tye them. And I would they would resolve us one question; how many dayes a child may be kept unbaptized without sin?</p>
+               <p>Sometimes they will stretch beyond their com<g ref="char:EOLhyphen"/>mand, as in Baptizing Females. They will challenge as great a priviledge as may be, either to doe, or not to doe at their pleasure.</p>
+               <p>And yet is the Argument of <hi>Circumcision</hi> the maine post and pillar upon which the whole Fabrick leaneth.</p>
+               <p>Fourthly, if the command of <hi>Circumcision</hi> be the rule of Baptisme, why should not the Passeover, be the rule of the Supper.</p>
+               <p>As among the Ancients, who did give the Lords Supper unto Children upon the same ground. And he hath no other shift to avoyd it, but by denyall that Infants did eat the passover. There is no such thing mentioned (saith he) in the Book of God.</p>
+               <p>But for that, we say, first the <hi>whole Familie was to eate it,</hi> Exod. 12. And Master <hi>Marshall</hi> thinks it a sufficient ground, that children were Baptized, because some Families were Baptized. And shall it not be a sufficient ground, that Children eate the Passeover, when not a few, but all the Families of <hi>Israel,</hi> even the whole <hi>As<g ref="char:EOLhyphen"/>sembly of the Congregation did eat it.</hi>
+               </p>
+               <p>Vnto this Master <hi>Marshall</hi> replyeth <hi>page</hi> 40. that our
+<pb n="29" facs="tcp:121089:18"/>Argument is not so strong as theirs; to prove Infants did eate the Passeover.</p>
+               <p>They reason thus, <hi>Some Families were Baptized.</hi>
+               </p>
+               <p>Therefore <hi>Children were Baptized.</hi>
+               </p>
+               <p>We reason thus; <hi>Not some onely, but all the families of Israel did eate the Passeover.</hi> Therefore <hi>Children did eate the Passeover.</hi>
+               </p>
+               <p>The first of these reasons, (as they thinke) is strong for them: Then why should not the second bee stron<g ref="char:EOLhyphen"/>ger against them? No, they deny the consequence; Strange what conceit will doe. But least hee should speak without reason, he will tell you why he denyeth the Consequence. Because no other Scripture shewes that the Passeover doth belong to Infants. But wee have other plaine Scriptures, that Baptisme is in the roome of Circumcision <hi>page</hi> 41. First, the weaknesse of the reason is here plainly confest. Secondly, these Scriptures are not yet seeen. Thirdly, if you could bring but such Scripture for Baptizing of Infants, as we are able to bring for Infants eating the Passeover, the controversie would soon be ended.</p>
+               <p>First, all the Congregation of Israel did eat there<g ref="char:EOLhyphen"/>of. But by your confession Infants of nine dayes old, were admitted into the visible Church, and so admit<g ref="char:EOLhyphen"/>ted members of the Congregation.</p>
+               <p>Secondly, there was no barre (bodily unclean<g ref="char:EOLhyphen"/>nesse excepted) to keep any from the Passeover, but uncircumcision onely. <hi>No uncircumcised person shall eate thereof, Exod.</hi> 12.48.</p>
+               <p>Thirdly it was the command of God: <hi>Three times of the yeare shall all the males appear before the Lord,</hi> Exod. 23.17. <hi>Thrice in the yeare shall all your men children ap<g ref="char:EOLhyphen"/>peare
+<pb n="30" facs="tcp:121089:19"/>before the Lord, Exud.</hi> 34.23. That the Feast of the <hi>Passeover</hi> was once of this thrice, appeareth as by the fore-cited places. So also <hi>Deut.</hi> 16.1. unto the end of the eighth verse, as also is manifest by exam<g ref="char:EOLhyphen"/>ple, <hi>Luke</hi> 2.41. <hi>His parents went to Ierusalem every year at the feast of the Passeover.</hi> I am certaine that if our opposites had but thus much for the Baptisme of In<g ref="char:EOLhyphen"/>fants, that wee have for Infants eating the Passeover, they would clap their hands and cry <hi>vicimus.</hi> Let them see in the meane time, the strength, or rather weaknes of their owne great Argument, which indeed produ<g ref="char:EOLhyphen"/>ceth all the rest. For I will bee bold to say, that take this Argument of Circumcision away, and you shall take all away.</p>
+               <p>But suppose we should grant, if Baptisme came in the roome of Circumcision, that the same, and no o<g ref="char:EOLhyphen"/>ther grace is sealed in the one, than in the other. Yet will it not follow that <hi>Children</hi> should bee Baptized, because there being a change of of the Ordinance and a vanishing of it away, we are not to looke back un<g ref="char:EOLhyphen"/>to the old, that is vanished away, but unto the com<g ref="char:EOLhyphen"/>mand which instituteth the new: It is the command by which we must be guided, lest he that is the Iudge of all say unto us, as unto the <hi>superstitious Scribes and Pha<g ref="char:EOLhyphen"/>risees: In vaine doe they worship me, teaching for Doctrine the tradition of men, Matth.</hi> 15.6. And <hi>who hath requi<g ref="char:EOLhyphen"/>red these things at your hands?</hi> But unto this they reply, That we have no command for giving the Supper to <hi>Women,</hi> or for Baptizing of <hi>Women,</hi> as some have said, (whom for honour sake I will not name) that we have no example for Baptizing of <hi>Women:</hi> so farre had they forgotten themselves, and erred, not knowing the
+<pb n="31" facs="tcp:121089:19"/>Scriptures. Doctor <hi>Featlies</hi> words are these, <hi>They can can produce no expresse particular command either for the Baptizing of women, or administring the Lords Supper to them,</hi> page 46.</p>
+               <p>Master <hi>Marshall</hi> is a little bolder in the one Ordi<g ref="char:EOLhyphen"/>nance than in the other. His words are these page 35. <hi>In the poynt of Sacraments there is no expresse command, no example in all the new Testament, where women recei<g ref="char:EOLhyphen"/>ved the Sycrament of the Lords Supper. There is no ex<g ref="char:EOLhyphen"/>presse command, that the Children of beleevers, when they are growne should be instructed, and baptized; though in<g ref="char:EOLhyphen"/>structed by their parents.</hi>
+               </p>
+               <p>What would these men have? would they im<g ref="char:EOLhyphen"/>pose upon us, that something may bee added unto the worship of God, which is not at all found in Scripture by <hi>command,</hi> or <hi>example?</hi> They dare not say so: How often shall we tell them, that if they bring us either <hi>com<g ref="char:EOLhyphen"/>mand,</hi> or <hi>example,</hi> by necessary consequence, we wil be<g ref="char:EOLhyphen"/>leeve them.</p>
+               <p>First, <hi>No command for Baptixing of women,</hi> saith the Doctor. But. Master <hi>Marshall</hi> dare not say so. I pray what is that <hi>Matth.</hi> 28.20. <hi>Make Disciples of all nati<g ref="char:EOLhyphen"/>ons, baptizing them.</hi> Here is a <hi>command for baptizing be<g ref="char:EOLhyphen"/>leeving Disciples.</hi>
+               </p>
+               <p>Secondly, we have no <hi>command,</hi> saith the Doctor, no <hi>example,</hi> saith Master <hi>Marshall, that women received the Lords Supper.</hi> This was alledged against Master <hi>La<g ref="char:EOLhyphen"/>timer,</hi> in Queen <hi>Maries</hi> dayes at the disputation holden at <hi>Oxford</hi> by the popish crew. And it was then to their shame answered by the <hi>Martyr,</hi> That wee had a com<g ref="char:EOLhyphen"/>mand in the 1 Cor. 11.28. <hi>Let a man examine himselfe.</hi> The Word in the Greek is ANTHROOPOS, And in
+<pb n="32" facs="tcp:121089:20"/>their owne vulgar Latin <hi>Homo,</hi> which signifies a man or woman. This answer of his did so abash the Po<g ref="char:EOLhyphen"/>pish fry, that they had not wherewith to reply. But these men are not so easily dasht out of countenance, they cannot so easily blush. But in their conceit they are able to shift this. They confesse that the word signifies man, or woman: yet they say, though the word ANTHROOPOS is a common name to both Sexes.<note place="margin">Dr. Featly. page <hi>73.</hi>
+                  </note> Yet the Apostle useth the masculine Article, HO, not HE, and HEAUTON, not HEAUTEN, and so there is no expresse command, but for men. I wonder the Doctors face is not as red as his Scarlet Gowne, in bringing such a <hi>Criticisme,</hi> in a matter of so great weight. You cannot be ignorant, that un<g ref="char:EOLhyphen"/>der the more worthy gender, both Sexes are usually comprehended. The Church in <hi>Acts</hi> 1.15. are ter<g ref="char:EOLhyphen"/>med <hi>Disciples,</hi> in the masculine gender: and yet were <hi>women</hi> amongst them, <hi>verse</hi> 14. The <hi>Apostles,</hi> write to <hi>Saints, Brethren, Beloved,</hi> all in the masculine gen<g ref="char:EOLhyphen"/>der. Therefore did he not write to any women. Thus the Doctor reasons, 1 <hi>Iohn</hi> 5.21. The <hi>Apostle</hi> saith, <hi>Little Children keep your selves from Idolls. Your selves,</hi> in the Greek is masculine: though Children be <hi>neu<g ref="char:EOLhyphen"/>ter.</hi> Now by the Doctors Logick, <hi>Women are not here commanded to keep from Idolls, Heb.</hi> 9.27. <hi>It is ap<g ref="char:EOLhyphen"/>poynted for men once to dye.</hi> The word men is restrai<g ref="char:EOLhyphen"/>ned to the Masculine, by the Article TOIS: There<g ref="char:EOLhyphen"/>fore this is not meant of women: it cannot be proved from hence, that women must dye. <hi>Doctor-like.</hi> How long will you harden your faces. Are you not yet a<g ref="char:EOLhyphen"/>shamed of these <hi>things,</hi> (my pen had almost written) <hi>tricks, Psalme</hi> 39.6. <hi>Surely every man walketh in a vaine
+<pb n="33" facs="tcp:121089:20"/>shew. The heart of man it deceitfull,</hi> Rom. 3.10. <hi>There is none righteous, no not one,</hi> Gal. 3.10. <hi>Cused is every one that continueth not, &amp;c.</hi> All these and a thousand more in the Masculine gender: Doe these places ex<g ref="char:EOLhyphen"/>clude women? The Doctor complaines, they have taken way his Bookes, and Livings. Surely, be that readeth this, will suppose he hath lost his reason, and his understanding also. To make an end of this Brab<g ref="char:EOLhyphen"/>ble, I pray consider, <hi>Gen.</hi> 5.2. <hi>Male and female created he them, and blessed them, and called their name</hi> Adam.</p>
+               <p>A third Proposition is layd downe by Master <hi>Mar<g ref="char:EOLhyphen"/>shall, page</hi> 45. That there is no expresse command, that the children of Beleevers when they are grown, should be instructed, and Baptized, &amp;c. I should as soon have beleeved, that the Rivers would have forgotten their course, and runne up the hills, as that such a thing should have flowne from Master <hi>Marshalls</hi> mouth. Thus are men smitten with <hi>blindnesse,</hi> and their <hi>right eye</hi> put out; when they fight against the truth of God. <hi>O Lord, thou art righteous in thy judgements: thou hast confounded the wise, and made their folly to appeare: Thou hast given them strong delusions, that they should beleeve a lye, because they have not beleeved thy Truth: Oh our Father, out of the mouth of Babes hast thou per<g ref="char:EOLhyphen"/>fected prayse: When the wise doe utter folly and de<g ref="char:EOLhyphen"/>ceit.</hi>
+               </p>
+               <p>I shall bring no other thing against Master <hi>Mar<g ref="char:EOLhyphen"/>shall,</hi> but his owne words: Out of his owne mouth shall he be judged. His next words are these: <hi>Expresse command there is, that they should teach the Heathen and the Iewes, and make them Disciples, and then Baptize them. But no command, that the Children of Beleevers should be
+<pb n="34" facs="tcp:121089:21"/>taught and baptized, &amp;c.</hi> Why, are the Children of <hi>Beleevers,</hi> neither <hi>Iewes</hi> nor <hi>Gentiles.</hi> They must bee of one sort. For these two divide the whole world in Scripture; into <hi>Iew,</hi> or <hi>Gentile:</hi> the <hi>Gentile</hi> again be<g ref="char:EOLhyphen"/>ing divided into <hi>Greek</hi> or <hi>Barbarian, Heathen,</hi> and <hi>Gen<g ref="char:EOLhyphen"/>tile</hi> being but one in signification. The grown Chil<g ref="char:EOLhyphen"/>dren of Beleevers, are eyther <hi>Iewes</hi> or <hi>Gentiles,</hi> or else none of the world. But there is a command to Baptize all Discipled <hi>Iewes</hi> and <hi>Gentiles.</hi> There<g ref="char:EOLhyphen"/>fore all grown children of Beleevers so soone as they shall be Discipled.</p>
+               <p>In the next place, to prove, that <hi>they who were Cir<g ref="char:EOLhyphen"/>cumcised may be Baptized,</hi> is brought the reason and e<g ref="char:EOLhyphen"/>quity of the Law, which still remaineth.</p>
+               <p>I pray what reason can be shewed why the people should be circumcised at all: but <hi>only the will and com<g ref="char:EOLhyphen"/>mand of God?</hi>
+               </p>
+               <p>Againe, what reason can be shewed, why children should be Circumcised, from <hi>Abraham to Christ;</hi> rather ther than from <hi>Adam to Abraham.</hi> Here reason fal<g ref="char:EOLhyphen"/>ters, faith and obedience takes place.</p>
+               <p>
+                  <hi>Yee are my friends, if yee doe whatsoever I command you. Iohn</hi> 15.14.</p>
+               <p>Againe, they say, <hi>If the Children of Christian parents should be excluded from Baptisme, they were in a worse con<g ref="char:EOLhyphen"/>dition than the Iewes under the Law.</hi>
+               </p>
+               <p>I answer, it followeth not, that happinesse which they had by Circumcision under the Law was called a <hi>Yoak,</hi> Acts 15. And Master <hi>Marshall</hi> confesseth, that it did oblige them to great expences, and long jour<g ref="char:EOLhyphen"/>neys. Yet if it should have beene a greater Prero<g ref="char:EOLhyphen"/>gative than it was, the consequence will not hold:
+<pb n="35" facs="tcp:121089:21"/>for who dare say, that the Children and Infants of <hi>Seth</hi> were in a worse condition (in respect of salvati, on) than the children of <hi>Abraham:</hi> and yet they were neither Circumcised, nor Baptized, and yet saved as well as they, that were both <hi>Circumcised</hi> and <hi>Bapti<g ref="char:EOLhyphen"/>zed.</hi> I will not dwell any longer upon the Answer of this fourth Argument, but goe on to consider the fifth.</p>
+            </div>
+            <div n="5" type="argument">
+               <head>
+                  <hi>Argument</hi> 5.</head>
+               <p>
+                  <hi>They who are comprized within the Covenant,</hi>
+                  <note place="margin">Dr. Featly. Page <hi>46.</hi>
+                  </note>
+                  <hi>and are no where prohibited to receive the Seale thereof, may, and ought to receive it.</hi>
+               </p>
+               <p>But <hi>Children are comprized within the Covenant of faith, whereof Circumcision was a seale,</hi> Rom. 8.11. <hi>And now Baptisme is.</hi>
+               </p>
+               <p>Ergo, <hi>Children may and ought to receive Baptisme.</hi>
+               </p>
+               <p>This is Master <hi>Marshalls</hi> first and great Argument, which he layeth downe in Rime, thus.</p>
+               <p>
+                  <hi>The Infants of Beleeving parents, are</hi> faederati,<note place="margin">Mr. Mar<g ref="char:EOLhyphen"/>shal. page <hi>8.</hi>
+                  </note>
+                  <hi>there<g ref="char:EOLhyphen"/>fore they must be</hi> signati: <hi>They are within the Covenant of grace, belonging to Christs body, Kingdome, and Fami<g ref="char:EOLhyphen"/>ly: therefore are to partake of the Seale of his Covenant, or the distinguishing badge, between them who are under the Covenant of grace, and them who are not.</hi>
+               </p>
+               <p>
+                  <hi>Answer.</hi> These two Arguments do but onely dis<g ref="char:EOLhyphen"/>fer in word: but in substance they are one and the same. Both of equall force, or rather of like weake<g ref="char:EOLhyphen"/>nesse. I shall addresse my selfe to answer the Argu<g ref="char:EOLhyphen"/>ment, as it is layd downe by Master <hi>Marshall,</hi> because in him it hath the greater weight. Onely I shall touch the Doctor by the way: and first I must observe the Doctors sleight, in leaving out some words which
+<pb n="36" facs="tcp:121089:22"/>ought to have beene inserted in the second Propositi<g ref="char:EOLhyphen"/>on, <hi>viz. Children are comprized within the Covenant of Faith.</hi> These words ought to have been added <hi>And are no where prohibited to receive the seale thereof.</hi> And then the <hi>minor</hi> Proposition shall be denyed: <hi>Because an Institution of God, and an affirmative command, doth u<g ref="char:EOLhyphen"/>sually forbid all things that are comprehended in the affir<g ref="char:EOLhyphen"/>mative command, or which are beyond, or besides the Insti<g ref="char:EOLhyphen"/>tution.</hi> Is it any where in Scripture forbidden, that the Doctor shall not Baptize his Bells after the Popish su<g ref="char:EOLhyphen"/>perstition? But if he should doe so, might it not be said, <hi>Who hath required these things at your hands?</hi> and might not the Lord justly challenge you with the breach of his command? <hi>Adde not thou unto his words, lest he reprove thee, and thou be found a lyar, Prov.</hi> 30.6. Thus will the Lord say; I gave Commission to <hi>Baptize Beleevers,</hi> and yee have <hi>Baptized Children. In vaine doe yee worship me.</hi> To adde unto the Ordi<g ref="char:EOLhyphen"/>nance of God, hath seemed a slender fault sometimes. But surely in my conceit, nothing can be more hide<g ref="char:EOLhyphen"/>ous, I confesse it a foule fault to take any thing away, but a farre greater to adde. See <hi>Rev.</hi> 22.18, 19. <hi>If a<g ref="char:EOLhyphen"/>ny man shall take away from the words of the Prophesie of this Book, God shall take away his part of the Book of life, &amp;c,</hi> A heavier censure: But, <hi>if any man shall adde, God shall adde unto him all the plagues that are written in this book.</hi> A heavy censure: Therefore let this <hi>D.</hi> heare, and tremble, thou hast transgressed his Commission, thou hast added to his words, <hi>Repent therefore of this wickednesse, that if it be posiible the thought of thy heart may be forgiven thee.</hi> When a man commeth to a <hi>ves<g ref="char:EOLhyphen"/>sell of wine,</hi> and taketh away many Gallons, yet that
+<pb n="37" facs="tcp:121089:22"/>which remaine his <hi>Wine</hi> still. But if he shall adde but one Gallon of water, but a <hi>dram</hi> or two of poyson, the <hi>Wine</hi> remaineth no longer <hi>Wine.</hi> But <hi>your Wine is mixt with water, Esa</hi> 1.22 and there will be death found in a <hi>poysoned Cup.</hi> Take a homely comparison along with you. A Butcher hath two (Oustomers in the Summer time, the <hi>Waspe,</hi> and the <hi>Flesh-fly:</hi> the <hi>waspe</hi> brings nothing with him, but takes some meat away. The <hi>flye</hi> takes nothing away, but addeth unto that she sinds: Now tell mee, if the Butcher had not rather have seven <hi>waspes</hi> in his shop than one <hi>Flye.</hi> Peradventure the <hi>Doctor</hi> may plead, he is no <hi>waspe,</hi> (yet we feele his sting) yet in this he shall never justifie himselfe from being a <hi>buzzing flesh flye;</hi> that hath done more harme by <hi>addition,</hi> than ever he could have done by <hi>substracti<g ref="char:EOLhyphen"/>on.</hi> I leave the Doctor to prove unto us the Pro<g ref="char:EOLhyphen"/>position denyed. And I addresse my selfe unto Master <hi>Marshalls</hi> great Argument, in shew like a <hi>weavers beame:</hi> But when I have weighed it, I finde it so light, that it is like the <hi>Chaffe hefore the wind,</hi> or like the Thi<g ref="char:EOLhyphen"/>stle Downe before the <hi>whirle winde.</hi> Both of the Pro<g ref="char:EOLhyphen"/>positions being so false, that it appeares the conclusion hath not any shew of truth. First, they that are in Co<g ref="char:EOLhyphen"/>venant must bee sealed. This is denyed: For first, <hi>women</hi> among the <hi>Iewes</hi> were in Covenant, yet not sealed with <hi>Circumcision:</hi> His Reply is, that they were Circumcised in the Males. Very good, if Cir<g ref="char:EOLhyphen"/>cumcision be a rule of <hi>Baptisme,</hi> let him shew us a rea<g ref="char:EOLhyphen"/>son, <hi>why female Children, should not be baptized in the males.</hi> But we adde, <hi>male children</hi> among the <hi>Iewes</hi> were in Covenant before they were eight dayes old, yet were they not Citcumcised before they were
+<pb n="38" facs="tcp:121089:23"/>eigth dayes old: because God had set the eight day, an expresse terme for <hi>Circumcision.</hi> And so hath God set an expresse time for Bapti me: viz. <hi>The time of beleeving.</hi>
+               </p>
+               <p>Thirdly, we farther adde upon Master <hi>Marshalls</hi> owne grant, in his first conclusion, That <hi>The Covenant of grace hath alwayes for substance beene one and the same.</hi> (In the prosecution whereof many things are confu<g ref="char:EOLhyphen"/>sedly spoken) if this bee granted: Then were the Children of the faithfull, from <hi>Adam</hi> to <hi>Noah, ten generations; from Noah</hi> to <hi>Abraham ten generations, as well in Covenant, as the Children of the faithfull now.</hi> Or else the Covenant was not one and the same. But we see for twenty generations, no Seale annexed un<g ref="char:EOLhyphen"/>to Children in Covenant. And the reason is because God had not commanded. And this is the reason now, why Baptisme is not to bee applyed unto Children, because God hath not commanded it so to be applyed.</p>
+               <p>Fourthly, we further adde, upon the grant of the third Conclusion: That <hi>ever since</hi> Abrahams <hi>time, God had a seale to be applyed to such as enter into Covenant with him.</hi> This gives us to take into consideration, how Children of Beleevers are in Covenant more than the Children of unbeleevers? We say, that it is one thing <hi>for God to enter into Covenant with the Creature,</hi> it is ano<g ref="char:EOLhyphen"/>ther thing for the <hi>Creature to enter into Covenant with God.</hi> For we read of a Covenant <hi>made by God unto everie living Creature, to fowle, Cattell, and every beast of the earth. Gen.</hi> 9.10. Here we see <hi>God enters into covenant with Beasts and Fowl<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s: But they doe not re<g ref="char:EOLhyphen"/>ciprocally enter into covenant with God againg.</hi> So that
+<pb n="39" facs="tcp:121089:23"/>it is plaine, that God entring into Covenant with the Creature, and the creature entring into Covenant with God, are two reall distinct things. Although it be granted him, that God hath <hi>entred into cove<g ref="char:EOLhyphen"/>nant with all beleevers children,</hi> yet it shall never bee granted him, <hi>that they have entred into covenant with God.</hi> Weegrant that Conclusion, that God hath a Seale, now to be applyed to all that enter into Cove<g ref="char:EOLhyphen"/>nant with God. But this is the thing that should have beene proved, that <hi>children doe enter into covenant with God.</hi> And yet all that he labours to prove is, that God entreth into Covenant with Children. God hath a Seale for all that Covenant with him, but not for all with whom he enters into Covenant.</p>
+               <p>The next thing to be taken into consideration is, whether the Covenant of Gods grace, belong any more <hi>to the children of beleevers, than unbeleevers?</hi> and <hi>whether it doe truely belong to all the children of unbelee. vers:</hi> or <hi>whether to some of one, and some of the other in<g ref="char:EOLhyphen"/>differently?</hi> If it belong to some of one, and some of the other indifferently: why doe they refuse to Bap<g ref="char:EOLhyphen"/>tize the one when they Baptize the other. I could have wished, that hee had declared unto us what hee had meant by the Covenant of grace, that hee might have spared our labour. For he confesseth, that only true beleevers are made partakers of the spirituall part of the Covenant, <hi>page</hi> 3. The <hi>grace of God</hi> is compre<g ref="char:EOLhyphen"/>hended (so far as we are able to comprehend) in these branches: the <hi>grace of Election,</hi> of <hi>Vocation,</hi> of <hi>Iustifica<g ref="char:EOLhyphen"/>tion,</hi> of <hi>glorification.</hi> I know not any other <hi>fruit</hi> of that <hi>love of God,</hi> revealed in the <hi>new covenant,</hi> manifested unto the world by <hi>Iesus,</hi> the mediator between God &amp; man.</p>
+               <pb n="40" facs="tcp:121089:24"/>
+               <p> Did God give His Sonne <hi>Iesus</hi> to dye for the Chil<g ref="char:EOLhyphen"/>dren of Beleevers, and did he not give him to dye for the children of unbeleevers also? Otherwise how could the Gentiles have been taken into <hi>covenant.</hi> Hath God chosen all the children of Beleevers? Why, <hi>then all of them shall be saved, for whom he did predestinate, them also hee called, Rom.</hi> 8. Hath God chosen onely the children of beleevers; Then, <hi>shall none other be sa<g ref="char:EOLhyphen"/>ved.</hi> But if he have chosen some of one, and some of the other: Then doth the grace of <hi>Election</hi> belong to one as well as to another. The like may be sayd of <hi>Vocation,</hi> and <hi>Iuslification:</hi> wee cannot see how the children of beleevers should bee rather justified than the children of unbeleevers. For, <hi>by the obedience of one, the free guife came upon all men, unto justification of life. Rom.</hi> 5.18. neither doe we understand the part of he <hi>covenant</hi> of grace, which is not spirituall.</p>
+               <p>But it will bee sayd, although our reason cannot fa<g ref="char:EOLhyphen"/>thom this, yet, if so bee that the text alleadged will hold forth, what he hath afirmed, we are bound to be<g ref="char:EOLhyphen"/>leeve it. True, Therefore in the next place, we desire to ponder the Scripture which hee hat brought as a prop unto his opinion. <hi>Acts</hi> 2.38, 39. <hi>For the promise is unto you, and to your children, and to all that are afar off, even as many as the Lord our God shall call.</hi> In a word, by this promile, I understand the <hi>knowledge of remission of sinnes, and life everlasting.</hi>
+               </p>
+               <p>Now who are the children that this promise is made unto. The Doctor will helpe us here a little (though against his will) for he confesseth that <hi>the pro<g ref="char:EOLhyphen"/>mise to Abraham, and his seede, was not to bee understood of the seede according to the flesh:</hi> This hee saith is con<g ref="char:EOLhyphen"/>trary
+<pb n="41" facs="tcp:121089:24"/>unto the Apostle, Rom. 4.13. <hi>The promise that he should bee the beire of the world, was not given to Abra<g ref="char:EOLhyphen"/>ham, or his seed through the Law, but through the righ<g ref="char:EOLhyphen"/>tcousnesse of faith, as hee was the father of all the faithfull;</hi> and to this purpose also, this present text. <hi>Acts</hi> 2.38. it alledged, unto which he joyneth, <hi>Gala.</hi> 3.7. <hi>Know yee therefore that they that are of faith, are the children of Abraham:</hi> unto which also a reason is joyned, and yet applyed against reason, by the Doctor, page 47. From this concession of the Doctors, wee give an an<g ref="char:EOLhyphen"/>swer unto the other: thus; No beleever hath a larger copy, or priviledge than <hi>Abraham</hi> had, but <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> copy (in respect of the eternall covenant) did not belong to <hi>Abrahams</hi> seed after the flesh. Therefore the priviledges of beleevers doe not belong to their seed after the flesh, but after the spirit. if it be inquired who are the seede of beleevers; it will be answered in the words of our Saviour, when it was told him, Mar. 3.32. <hi>Behold thy Mother and thy brethren, without seeke thee, and hee answered themsaying, who is my Mother and my brethren. And hee looked round about on them, which sate about him and sayd, behold my Mother and my brethren,</hi> &amp;c. It is sayd of <hi>Levi,</hi> that <hi>hee sayd unto his Father, and to his mother, I have not seene him, neither did hee ac<g ref="char:EOLhyphen"/>knowledge his brethren, nor know his owne children.</hi> Hee that beleeveth and is baptized, the same is my Father, my Mother, my Brethren, my Sisters.</p>
+               <p>Thus we see that the seede of beleevers, is not to bee reckoned according to the flesh.</p>
+               <p>But wee will grant, that that place in <hi>Acts</hi> 2.38. is meant of that seede which was according to the flesh: And wee say, that the promise is extended no farther
+<pb n="43" facs="tcp:121089:25"/>than the words of the Text, even <hi>to as many, as the Lord your God shall call.</hi> For first, the promise is made to you, <hi>upon calling, to them that are a farre off</hi> upon ealling: and therefore <hi>unto their Children also,</hi> up<g ref="char:EOLhyphen"/>on Calling; and no otherwise. The Text is plaine.</p>
+               <p>But Master <hi>Marshall</hi> replyeth, that this had been no comfort to tell them, that their Children should be received in, if they did beleeve, for this was no better comfore than might have been preached to any <hi>unbeleever.</hi> I playnly see that <hi>Bernard</hi> seeth not all things; and that Mr. <hi>Mirshall</hi> misseth the scope of the Text, which I will endeavour to pen, and then leave him to further consideration. When <hi>Peter</hi> had decla<g ref="char:EOLhyphen"/>red unto the <hi>Iemes, that they had taken, and by wicked Sands crucified and slaine the Lord of life,</hi> Acts 2.23. And that <hi>God raised up, and made the same Iesus whom they crucified both Lord and Christ, verse</hi> 36. When they were convinced in their soules of this wicked<g ref="char:EOLhyphen"/>nesse; they were <hi>pricked in their hearts,</hi> and doe not say, <hi>what shall we doe to be saved?</hi> But as men in a most forlorne, and desperate condition, out of all hope of salvation, either for their selves or their posterity they say, <hi>Men and brethren what shall we doe:</hi>
+               </p>
+               <p>Let me lay open the heart of this people a little, that you may know and judge of their case. I sup<g ref="char:EOLhyphen"/>pose them thus to speak: Hath the Lord said indeed, <hi>That every transgression; and disobedience against that Law, delivered unto us at</hi> Sinay, <hi>in the hand of a Me<g ref="char:EOLhyphen"/>dialor, shall receive just recompence of reward?</hi> Then what tongne can expresse, what heart can conceive that recompence that is due unto us? who have not
+<pb n="42" facs="tcp:121089:25"/>onely transgressed <hi>Moses</hi> Law, but have also crucified the <hi>Lord of life,</hi> slaine the <hi>Mediator of the new Testa<g ref="char:EOLhyphen"/>ment,</hi> wom <hi>God</hi> hath raised up, and made <hi>Lord</hi> of all. with what face can we looke on him, whom we have pierced? Tremble O earth and be astonished O hea<g ref="char:EOLhyphen"/>vens at our estate, and condition; Hills fall upon us, Mountaines cover us, what shall we doe? This is out misery, and yet is not this all; for wee well remem<g ref="char:EOLhyphen"/>ber what was written from the Trumpet of <hi>Sinai, I the Lord thy God am a jealous God, visiting the iniqui<g ref="char:EOLhyphen"/>ty of the Fathers upon the Children, unto the third or fourth generation, of them that hate mee, Exodus</hi> 20.5. Will God indeed visit the transgression of his Law from <hi>Sinai,</hi> unto the third and fourth generation? sure then, O cursed children of most cursed Parents, shall not we, and our Childrens children, be visited unto a thousand generations. O see, there is not any hope left, that either wee, or our children, or childrens children, should ever be received unto mercy againe. We have crucified, we have slaine the <hi>Lord of life,</hi> and now, <hi>men and brethren what shall we doe?</hi> Now these things being thus, you shall see the playster of <hi>Conso<g ref="char:EOLhyphen"/>lation,</hi> full as broad as the foare of <hi>Desperation. Peter</hi> speaketh words of comfort unto them, to this effect: if you, your children, or generations a farre off, shall repent, and be Baptized, feare it not, you shall not be excluded, for I declare unto you the <hi>promise to you, and to your children, and to all that are a farre off, even as many as the Lord our God shall call.</hi> Now let the Reader judge, whether the promise of taking in of their Children, upon Calling, were not a word of great Conlolation, unto desperate, and dillracted pa<g ref="char:EOLhyphen"/>rents
+<pb n="44" facs="tcp:121089:26"/>who for the present could think no other thing, but that both they and their children should be for ever damned.</p>
+               <p>Thus much for the Exposition of this Text, and for the answer unto the fift Argument.</p>
+               <p>Now followes the sixt Argument, laid downe by Dr. <hi>Featly, rage</hi> 47.</p>
+            </div>
+            <div n="6" type="argument">
+               <p>
+                  <hi>Such who were typically Baptized under the Law, are capeable of reall and true Baptisme, under the Gospell: for the Argument holds good,</hi> a typo adveritatem, <hi>from the type to the truth, from the signe in the Law, to the thing sig<g ref="char:EOLhyphen"/>nified in the Gospel.</hi>
+               </p>
+               <p>But <hi>Children were typically Baptized under the Law, for they with their Fathers, were under the cloud, and pas<g ref="char:EOLhyphen"/>sed through the redsea. But their washing with raine from the Cloud, presigured our washing in Baptisme, and by the Spirit. And the red Sea, in which</hi> Pha<g ref="char:EOLhyphen"/>raoh <hi>and his Host were drowned, was an embleme of Christs bloud, in which all our ghostly enemies are drowned, and destroyed.</hi>
+               </p>
+               <p>Ergo, <hi>Children are capeable of true and reall Baptisme under the Gospell.</hi>
+               </p>
+               <p>In this Argument Master <hi>Marshall</hi> joyneth not with him at all.</p>
+               <p>
+                  <hi>Answ.</hi> It is unsufferable, when men will seek to prove a Conclusion true by two false Propositions.</p>
+               <p>First, the <hi>major</hi> is denyed: <hi>All that were typically Baptized under the Law, are not capable of true baptisme under the Gospell.</hi> For by the same reason, all the whole Congregation of <hi>Israel,</hi> had beene capeable of Bap<g ref="char:EOLhyphen"/>tisme in <hi>Iohn Baptists dayes.</hi>
+               </p>
+               <p>Secondly, not only the Congregation of Israel, but a
+<pb n="45" facs="tcp:121089:26"/>mixed multitude went up with them, <hi>Exodus</hi> 12.38.</p>
+               <p>But he reasoneth, that this was a Type of our Baptisme.</p>
+               <p>I answer, <hi>In every type as there is a similitude, so also there is some dissimilitude.</hi>
+               </p>
+               <p>Secondly, I deny that this was any type of Baptisme at all: and the Dr. cannot prove it.</p>
+               <p>Now to the <hi>minor, that children were typically baptized under the Law, is also denyed.</hi> For though they were in the sea, (so were their Cattell) and though they were in the Cloud, <hi>yet not any were baptized unto</hi> Moses, <hi>but such as did understand the wonders of the Lord, even such as beleeved the Lord, and his Servant</hi> Moses, Exodus 14.31. For it is said, <hi>They did all eate the same spirituall meat, and did all drinke the same spirituall drinke:</hi> name<g ref="char:EOLhyphen"/>ly, <hi>they did all eate and drink Christ.</hi> Now Christ can<g ref="char:EOLhyphen"/>not be eaten and drunk without beleeving. Both the Propositions being thus false, we leave the Conclusion altogether untrue.</p>
+            </div>
+            <div n="7" type="argument">
+               <head>
+                  <hi>Argument</hi> 7. <hi>page</hi> 49.</head>
+               <p>
+                  <hi>All they who belong to Christ, and his Kingdome, ought to be received into the Church by Baptisme.</hi>
+                  <note place="margin">Dr. Featly.</note>
+               </p>
+               <p>
+                  <hi>But children belong to Christ and his kingdome, as Christ himselfe teacheth us,</hi> Mark 10.14. Luke 10.16. <hi>Suffer little children to come unto me, and forbid them not, for of such is the kingdome of God. Verily, I say unto you, Who<g ref="char:EOLhyphen"/>soever shall not receive the Kingdome of God as a little childe, he shall not enter therein,</hi> Verse 15. <hi>And he tooke them up in his armes, and put his hands upon them, and blessed them.</hi>
+               </p>
+               <p>Ergo, <hi>Children ought to be admitted into the Church by Baptisme.</hi>
+               </p>
+               <pb n="46" facs="tcp:121089:27"/>
+               <p>
+                  <hi>Suffer them to come unto me, and forbid them not, because of such is the kingdome of God.</hi>
+                  <note place="margin">Mr. Mar<g ref="char:EOLhyphen"/>shal. pag. <hi>42</hi>
+                  </note>
+                  <hi>That is my Church and Kingdome is made up of those, as well as of others.</hi>
+               </p>
+               <p>I will answer this, and the following Arguments, with more brevity, than I have answered the former. And I doe deny the major, or first Proposition, <hi>viz. All that belong unto the Kingdome of Christ, ought not to be received into the Church by Baptisme.</hi> A person may bee said to belong to the Kingdome of Christ two wayes. First, by <hi>Election,</hi> which is secret. Second<g ref="char:EOLhyphen"/>ly by <hi>Calling,</hi> which is manifest. Now the Ordinance of <hi>Baptisme</hi> belongeth not unto <hi>Election,</hi> but unto <hi>Calling.</hi>
+               </p>
+               <p>Now master Marshalls dealing is observeable, who saith, that Christ saith, his Church and Kingdom con<g ref="char:EOLhyphen"/>sisteth of such: where hee addeth the word Church, which Christ expresseth nor and therefore wee will charge him with addition of more unto the text, than is found therein. And we give him to understand that many belong the Kingdome of God, who doe not be<g ref="char:EOLhyphen"/>long to the Church of God. And these Insants, whom our Saviour professeth by his divine knowledge, to be<g ref="char:EOLhyphen"/>long unto his Kingdome, and yet you see, that he neither baptized them, nor yet commanded them to bee baptized. Although (I say) he knew they belonged unto his Kingdome. With what forehead, dare you baptize infants, when you know not whether they be<g ref="char:EOLhyphen"/>long to the Kingdome of God or no.</p>
+            </div>
+            <div n="2" type="argument">
+               <head>Argument. 8.</head>
+               <p>
+                  <hi>All they which receive the grace,<note place="margin">Dr. Featly. Page <hi>50.</hi>
+                     </note> both signified and ex<g ref="char:EOLhyphen"/>hibited to us in baptizme, may and ought to receive the signe
+<pb n="47" facs="tcp:121089:27"/>and Sacrament thereof. This is the Basis and foundation upon which Saint Peter himselfe builds,</hi> Acts 10.47. <hi>Can any man forbid water that these should not be baptised, who have received the Holy Ghost as well as wee. And it may be further confirmed by an argument drawne</hi> à majori all mi<g ref="char:EOLhyphen"/>nus, <hi>after this manner, of God bestow upon children, that which is greater, the inward grace; why should wee deny them the lesser, the outward Elements? Or by an Argu<g ref="char:EOLhyphen"/>ment drawne</hi> à relatis: <hi>they to whom the Lund is given, ought not to bee denyed the sight and keeping of the Deeds and Evidences thereof: neither ought wee to sever the things that God hath joyned, to wit, the signes and the things signified. They divide the signe firm the thing sig<g ref="char:EOLhyphen"/>nified, who deny them to have grace ordinarily,</hi> modo non ponant obicem, <hi>who receive the outward Signe. And they againe sever the thing signified from the signe, who allow unto Children the grace of remission of sinnes, &amp; regeneration, and yet deny them the signe and seale thereof, to wit, Babtisme.</hi>
+               </p>
+               <p>
+                  <hi>But children receive the grace signified, and exhibited in Baptisme: for the Apostle teacheth us, they are not uncleane, but holy: and therefore have remission of sins, and sanctification.</hi>
+               </p>
+               <p>Ergo, <hi>Children ought to receive the signe and Sacrament thereof, to wit, Baptisme.</hi>
+               </p>
+               <p>
+                  <hi>To whom the inward grate of Baptisme, doth belong, to them belongs the outward signe:</hi>
+                  <note place="margin">Mr. Mar<g ref="char:EOLhyphen"/>shal, page <hi>41.</hi>
+                  </note>
+                  <hi>They ought to have the signe, who have the thing signified: the earthly part of the Sacrament must be given unto them who have the hea<g ref="char:EOLhyphen"/>venly part. But the Infants of Beleevers, even while they are Infants, are made partakers of the inward grace of Baptisme, of the heavenly and spirituall part, as
+<pb n="48" facs="tcp:121089:28"/>growne men. Therefore they may, and ought to receive the outward signe of Baptisme.</hi>
+               </p>
+               <p>I will Answer this deceitfull and pudled, and con<g ref="char:EOLhyphen"/>founded Argument, by denyall of the <hi>major,</hi> and by laying downe in briefe, certaine Propositions to cleare if it may be that which is here so full of confusion.</p>
+               <p n="1">1. Prop. <hi>That children have the grace, mercy, and favour of God.</hi>
+               </p>
+               <p n="2">2. Prop. <hi>Children have not the knowledge of this grace and mercy.</hi>
+               </p>
+               <p n="3">3. <hi>Not they who have received grace and mercy: But they who have received manifestation of grace, ought to bee Baptized.</hi>
+               </p>
+               <p n="4">4. <hi>That</hi> Peter <hi>Acts</hi> 10. <hi>speaketh not onely of mercy and grace given, but also of mercie and grace manifested.</hi>
+               </p>
+               <p n="5">5. <hi>That neither Children, nor Dr. Featly, nor Mr. Mar<g ref="char:EOLhyphen"/>shall, have yet received the gift whereof Peter speaks Act.</hi> 10.</p>
+               <p n="6">6. <hi>That Children may be holy in Gods imputation.</hi>
+               </p>
+               <p n="7">7. <hi>That Children are not holy in conscience and manife<g ref="char:EOLhyphen"/>station.</hi>
+               </p>
+               <p n="8">8. That in the sence whereof the Apostle spake, <hi>Children are not otherwise holy, than the unbeleeving hus<g ref="char:EOLhyphen"/>band, who is sanctified: else were your children unclean, that is ought to be put away. But new are they holy, you may remain with them still. See Mr. Marshall, page</hi> 19. <hi>and Nehem.</hi> 13.25. <hi>See Ezra</hi> 10.2.</p>
+               <p n="9">9. <hi>No unbeleever ought to be Baptized, Acts</hi> 8.36.</p>
+               <p n="10">10. <hi>A child may have right to land, which may not keep the Deeds.</hi>
+               </p>
+               <p n="11">11. <hi>A person may have the greater, to whom the lesser is denyed.</hi> Otherwise, why doe you deny the Supper to Children, who as you say, have the heavenly grace, and gift of the holy Ghost.</p>
+            </div>
+            <div n="9" type="argument">
+               <pb n="49" facs="tcp:121089:28"/>
+               <head>
+                  <hi>Argument</hi> 9.</head>
+               <p>
+                  <hi>All Apostolicall traditions,</hi>
+                  <note place="margin">Dr. Featly. Page <hi>52.</hi>
+                  </note>
+                  <hi>which are truely such ought to be had in reverent esteeme, and retained in the Church. For what the Apostles delivered, they received from Christ himselfe, either by word of mouth, or the infallible inspira<g ref="char:EOLhyphen"/>tion of his Spirit. Such things are part of that</hi> Sacrum depo<g ref="char:EOLhyphen"/>situm, <hi>which</hi> Timothy <hi>is charged so deeply to keep. O</hi> Ti<g ref="char:EOLhyphen"/>mothy <hi>keep that which is committed unto thee. And the Thessalonians to stand fast, and keep</hi> Paradoseis, <hi>word for word: the traditions which you have beene taught, either by word, or by our Epistle. But the Baptisme of children is an Apostolicall tradition, truly so called.</hi>
+               </p>
+               <p>Ergo, <hi>It ought to be had in high estem, and retained in the Church.</hi>
+               </p>
+               <p>Origen <hi>saith,</hi>
+                  <note place="margin">Mr. Mar<g ref="char:EOLhyphen"/>shal. pag. <hi>4.</hi>
+                  </note>
+                  <hi>the Church received the tradition of Bap<g ref="char:EOLhyphen"/>tizing Infants from the Apostles, traditions being onely such things as are delivered from one to another; whether writ<g ref="char:EOLhyphen"/>ten, or unwritten.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> What will you have? will you bring us back to unwritten traditions againe: if your tradition bee unwritten, why doe you impose it upon us?</p>
+               <p>To prove that it is a Tradition, you alledge <hi>Austin, Prosper, Ierom, Cyprian, Origen,</hi> &amp;c. And in the front of your Book <hi>Gregory Nazianzen.</hi>
+               </p>
+               <p>Vnto the Testimony of <hi>Gregory,</hi> I shall answer in the first place: that in the place and words cyted by your selfe, <hi>Gregory</hi> doth restraine it unto, <hi>dauger,</hi> say<g ref="char:EOLhyphen"/>ing, <hi>if there be any danger.</hi> But what if there be no dan<g ref="char:EOLhyphen"/>ger, then let them stay TRI<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>TIAN, &amp;c. Three years, (saith <hi>Nazianzen</hi>) lesse, or more, untill they be able to heare and answer.</p>
+               <pb n="50" facs="tcp:121089:29"/>
+               <p> And these words in the Author doe immediately follow the place quoted by the Doctor. And he him<g ref="char:EOLhyphen"/>selfe confessed unto me, that he knew that this was the Authors opinion, that (time of danger excepted) Children ought not to be Baptized before they could heare and answer. And yet hath he with great frand, hidden this from the hearers. Iudge I pray you, whe<g ref="char:EOLhyphen"/>ther this be Christian dealing, or not. And what was the Custome in those dayes? whether to huddle with children to the Font or no, may appeare by the example of <hi>Nazianzen</hi> himselfe: His Father was a Bishop, his mother a vertuous Woman, famous in wonders, yet was not hee himselfe Baptized untill thirty yeares of age.</p>
+               <p>When he sayled unto <hi>Athens,</hi> (as I take it) being of perfect age, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, he was not yet sealed with Bap<g ref="char:EOLhyphen"/>tisme. And in the story of his life, it is sayd, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. He was Baptized when he was full thirty yeares of age: either then the father of <hi>Gregory,</hi> and his mother did not know this Tradition, or else they did willfully transgresse it. But against the Authorities brought, I shal alledge one, who is more one on than any that they can truely cyte: (for <hi>Iustin Martyr</hi> is fraud lently cited by Mr. <hi>Marshall,</hi> his owne Conscience perswading him, that it was not <hi>Iustins</hi> Booke which goes under his name, as appeares in Mr. <hi>Marshall,</hi> page 3.) <hi>Tertullian</hi> is the man, who in the lat<g ref="char:EOLhyphen"/>ter end of his Sermon concerning Baptisme, dispures who are to be Baptized, and determines it thus, <hi>omni petenti dato,</hi> give to every one that asketh it. <hi>Aetate <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unctatio Baptismi utilior,</hi> &amp;c: The de<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing of Bap<g ref="char:EOLhyphen"/>tisme,
+<pb n="51" facs="tcp:121089:29"/>is more profitable in age: But especially con<g ref="char:EOLhyphen"/>cerning children, of whom he saith, <hi>fiant Christiani cum Christum nosse potuerint.</hi> Let them be made Chri<g ref="char:EOLhyphen"/>stians when they are able to know Christ, with many such like things in the same place, one whereof I can<g ref="char:EOLhyphen"/>not forget, <hi>Quid enim necesse est (si non tam necesse est) sponsores, etiam periculo, ingeri?</hi> What need is there for Godfathers to bee brought in in the time of danger? where he concludes, that Infants have no need of Bap<g ref="char:EOLhyphen"/>tisme. But one thing I may not passe by, viz. That those words, <hi>(Si non <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am necesse)</hi> are confessed to bee added to the Author by the Commentator, that hee might mitigate the Authors opinion concerning <hi>Bap<g ref="char:EOLhyphen"/>tisme of Infants.</hi> When I look upon this dealing, and consider what the Doctor hath done in the citation of <hi>Nazianzen,</hi> I have cause to say, as did your Fathers, so doe yee.</p>
+               <p>For the authority of <hi>Austin.</hi> I answer, that <hi>Ludovi<g ref="char:EOLhyphen"/>cus vives,</hi> a man well skild in <hi>Austin,</hi> beleeved no such matter: for in his Annotations upon the 27. <hi>chap</hi> of the 1 Book <hi>De Civ. Dei,</hi> he hath these words, <hi>O lim nemi<g ref="char:EOLhyphen"/>oem consuevisse Baptizare, &amp;c. That of old it was the cu<g ref="char:EOLhyphen"/>stome to baptize none, unlesse they were of full age, and did desire Baptisme in their own persons, and did understand what it was to be Baptized.</hi> And Cardinall <hi>Bellarm.</hi> con<g ref="char:EOLhyphen"/>fesseth, that <hi>Erasmus</hi> was of the same mind. What be<g ref="char:EOLhyphen"/>comes of your Apostolicall tradition?</p>
+            </div>
+            <div n="10" type="argument">
+               <head>
+                  <hi>Argument.</hi> 10.</head>
+               <p>
+                  <hi>All members of the Reformed Protestant Churches in Chri<g ref="char:EOLhyphen"/>stendome ought to conforme their judgements to the harmony of the Protestant Confessions,</hi>
+                  <note place="margin">Dr. Feanly. page <hi>53.</hi>
+                  </note>
+                  <hi>set forth by the consent of all Orthodox Churches, and firmly grounded upon Deductions, at least of holy Scripture, if not evident Texts.</hi>
+               </p>
+               <pb n="52" facs="tcp:121089:30"/>
+               <p>
+                  <hi>But the judgement of all the Reformed Churches, delivered in the harmony of their Confessions, is professedly for the Bap<g ref="char:EOLhyphen"/>tism of Infants, &amp; expressely against this tenet of the Anabaptists.</hi>
+               </p>
+               <p>Ergo, <hi>Let the Anabatptists with it, Disclaim the name of Pre<g ref="char:EOLhyphen"/>testants, &amp; Children of the Reformed Churches, or renounce this their heresie: for</hi> Turpis pars quae non congruit toti.</p>
+               <p>Answer. O man full of Subtilty: How long will you labour to deceive? You have left out some words inferted in your major, viz. firmely grounded upon holy Scripture. VVe grant that these Confessions by you cited doe seek to establish Baptisme of Infants. But that these confessions are in this poynt grounded upon Scripture, is the thing we deny. And this is that wee doe professe, that wheresoever the Protestant Confessions doe goe hand in hand with holy Scrip<g ref="char:EOLhyphen"/>ture, we doe rejoyce to follow them. But if they have swerved from the line, their example must not be our president: for wee have a more sure word of prophesie, whereunto yee do well, that yee take heed as unto a light shining in a darke place, untill the day dawne, and the day-starre appeare in your hearts, 2 <hi>Pet.</hi> 1.19. I answer againe, as Card. <hi>Bellarmin</hi> well and truely observeth. The Protestants doe confesse the Bapt. of Infants with the mouth; but yet the whole course of their owne positions do indeed over<g ref="char:EOLhyphen"/>throw it. And I can prove, that the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in maintaining the Baptisme of Infants, swerveth from her owne principles. But I will goe no farther at this time; onely I shall intreat the Lord to open the eyes of those that in this poynt cannot yet see: that they may consider with understanding what hath been written.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
